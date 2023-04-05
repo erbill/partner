@@ -14,9 +14,9 @@ export default {
         // Dropdown Menu
         text: "Useful Links",
         items: [
-          { text: "v0.0.1", link: "/item-1" },
-          { text: "v0.0.2", link: "/item-2" },
-          { text: "v0.0.3", link: "/item-3" },
+          { text: "Spotify", link: "/item-1" },
+          { text: "Amazon E-Books", link: "/item-2" },
+          { text: "Vimeo", link: "/item-3" },
         ],
       },
     ],
@@ -35,27 +35,39 @@ export default {
     // Sidebar
     sidebar: [
       {
-        text: "Section A",
+        text: "Getting Started",
         collapsible: true,
         items: [
           { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Setting your Online Store", link: "/getting-started" },
         ],
       },
       {
         text: "Products",
         collapsible: true,
         items: [
-          { text: "the Wooden Sound System", link: "/introduction" },
+          { text: "the Wooden Sound System", link: "/tws" },
           { text: "the Wooden Kaleidoscope", link: "/getting-started" },
         ],
       },
       {
-        text: "Section C",
+        text: "Marketing Ideas",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Personification", link: "/introduction" },
+          { text: "B2B Sales", link: "/getting-started" },
+          { text: "Workshops", link: "/getting-started" },
+          { text: "Drop Strategy", link: "/getting-started" },
+        ],
+      },
+      {
+        text: "Useful Links",
+        collapsible: true,
+        items: [
+          { text: "Bitti Gitti on Spotify", link: "/introduction" },
+          { text: "E-Books on Amazon", link: "/getting-started" },
+          { text: "Request a render", link: "/getting-started" },
+          { text: "Pitch us your ideas!", link: "/getting-started" },
         ],
       },
     ],
