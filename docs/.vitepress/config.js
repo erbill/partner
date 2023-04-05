@@ -1,6 +1,6 @@
 export default {
-  title: "Adocs",
-  description: "An awesome docs template built by me",
+  title: "Bitti Gitti Partners",
+  description: "An awesome docs built by Bitti Gitti",
 
   themeConfig: {
     logo: "/logo.png",
