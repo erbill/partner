@@ -64,7 +64,7 @@ Order yours today.
 ```
 
 If your store is more oriented on hand-crafted items and sustainable goods. Here is another approach;
-```copy
+```js
 Introducing the Wooden Sound System, a striking blend of 
 traditional woodworking and cutting-edge technology. 
 Crafted with prime quality birchwood, this award-winning speaker is 
@@ -88,7 +88,7 @@ Invest in quality and sustainability with the Wooden Sound System from Bitti Git
 
 Here is a shorter version;
 
-```copy
+```diff
 At [Boutique Gift Store's Name], 
 we pride ourselves 
 on sourcing unique and sustainable products 
@@ -113,7 +113,7 @@ and invest in a product that aligns with your values.
 
 Here's a Tweetable approach for this text;
 
-```copy
+```py
 Just in - the Wooden Sound System from 
 Bitti Gitti Design Studio! Experience 
 the perfect blend of style and function 
@@ -137,7 +137,7 @@ Here's a screenshot of what you'll be building at the end of this tutorial.
 
 If you already have a folder created, you can skip this step to the next one if not, use the following command to create a project folder and move into the folder.
 
-```copy
+```less
 Wooden Sound System, Bitti Gitti Design Studio,
 birchwood, award-winning, cutting-edge technology,
 versatile, eco-friendly, sustainable, smartphone, 
@@ -147,7 +147,7 @@ fair trade, durable, handcrafted.
 
 Next we'll add meta description for the Wooden Sound System, one alternative is this;
 
-```copy
+```coffee
 Enhance your music experience with the Wooden Sound System 
 from Bitti Gitti Design Studio - an award-winning speaker 
 crafted from high-quality birchwood and featuring cutting-edge 

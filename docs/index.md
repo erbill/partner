@@ -22,6 +22,8 @@ features:
   - icon: ⚡️
     title: 3D Renders
     details: Elevate your stores visuals
+    link: /renders.md
+    linkText: Read More
   - icon: 🎉
     title: Musics to Play in your store
     details: Inspiring songs and our journey
@@ -57,3 +59,4 @@ head:
       type: image/svg
       href: logo.svg
 ---
+
