@@ -17,7 +17,7 @@ To follow along with this tutorial, you need to have a basic understanding of th
 - [Markdown](https://daringfireball.net/projects/markdown/) syntax
 - Brief understanding of NPM and Vite
 
-```copy
+```js
 Introducing the Wooden Sound System from Bitti Gitti Design Studio 
 – a modern marvel of sound and design. This award-winning speaker is a 
 blend of stylish and functional design, making it 
@@ -48,7 +48,7 @@ with cutting-edge technology. Order now to experience superior sound and style.
 
 And here is a shorter version; 
 
-```copy
+```js
 Experience the perfect blend of style and function with the award-winning 
 Wooden Sound System from Bitti Gitti Design Studio. Crafted from 
 high-quality birchwood and featuring cutting-edge technology, 
