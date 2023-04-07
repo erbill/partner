@@ -2,7 +2,7 @@
 
 # the Wooden Sound System
 
-::: info
+::: info Thank You!
 It's amazing that you're providing the Wooden Sound System to your clients!
 :::
 
