@@ -10,6 +10,8 @@ It's amazing that you're providing the Wooden Sound System to your clients!
 
 [the Wooden Sound System](https://bitti-gitti.com/tws/) is a simple and performant static site generator built on top of [Vite](https://vitejs.dev) for creating docs in a matter of minutes. It is powered by [Vuejs](https://vuejs.org/), and Vite with built in customizable components. VitePress powers some popular documentation sites like Vuejs, [Vitest](https://vitest.dev/), [faker.js](https://fakerjs.dev/), and Vite itself.
 
+![favicondenemesi](/favicon.ico)
+
 ## Let's start with product description alternatives
 
 To follow along with this tutorial, you need to have a basic understanding of the following:
