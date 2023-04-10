@@ -6,7 +6,7 @@ hero:
   name: Partner's Page
   text: Directory of useful materials.
   image:
-    src: /logo.png
+    src: /bitti-gitti-logo.svg
     alt: Bitti Gitti Partners Page
   tagline: Let's find the best content strategy store! 
   actions:
@@ -15,7 +15,7 @@ hero:
       link: /guide
     - theme: alt
       text: View in Dropbox
-      link: https://github.com/Evavic44/adocs
+      link: https://www.dropbox.com/sh/ceyjmai55cvvom0/AAB6NZZzynB9bSv9NbgU6pHZa
 
 # Features section
 features:
@@ -24,15 +24,21 @@ features:
     details: Elevate your stores visuals
     link: /renders.md
     linkText: Read More
-  - icon: 🎉
+  - icon: 🎶
     title: Musics to Play in your store
     details: Inspiring songs and our journey
+    link: "https://open.spotify.com/artist/6pHu6yn12MFevc5KOj3RZq?si=ORmmYi3ES2Csi74ovxD7qA"
+    linkText: Listen Now
   - icon: 🔥
-    title: Amazing Lifestyle photos
-    details: Ready for emailings or your online store
+    title: Custom trained Strategy-AI
+    details: Create marketing copy for your store
+    link: "https://twsbot.bitti-gitti.com"
+    linkText: Generate Content
   - icon: 🎀
-    title: Gift personalization ideas
-    details: Great list of personalization ideas
+    title: Personalized Products
+    details: Create custom engravings and colors
+    link: /customizations.md
+    linkText: Let's create
 
 # Meta property
 head:
@@ -57,6 +63,6 @@ head:
   - - link
     - rel: icon
       type: image/svg
-      href: logo.svg
+      href: bitti-gitti-logo.svg
 ---
 

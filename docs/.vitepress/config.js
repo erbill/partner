@@ -7,16 +7,16 @@ export default {
     siteTitle: "Partners",
     // Navbar Link
     nav: [
-      { text: "About", link: "/about" },
+      { text: "Getting Started", link: "/about" },
       { text: "Guide", link: "/guide" },
-      { text: "Alternative Content", link: "/configs" },
+      { text: "Strategy AI", link: "https://twsbot.bitti-gitti.com" },
       {
         // Dropdown Menu
         text: "Useful Links",
         items: [
-          { text: "Spotify", link: "/item-1" },
-          { text: "Amazon E-Books", link: "/item-2" },
-          { text: "Vimeo", link: "/item-3" },
+          { text: "Spotify", link: "https://open.spotify.com/artist/6pHu6yn12MFevc5KOj3RZq?si=ORmmYi3ES2Csi74ovxD7qA" },
+          { text: "Amazon E-Books", link: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0BYRDRKQY" },
+          { text: "Vimeo", link: "https://vimeo.com/bitti" },
         ],
       },
     ],
@@ -24,9 +24,9 @@ export default {
     
     // Social Icons
     socialLinks: [
-      { icon: "cloud_download", link: "github.com/evavic44" },
+     
       { icon: "twitter", link: "https://twitter.com/bittigitti" },
-      { icon: "discord", link: "..." },
+      { icon: "instagram", link: "https://www.instagram.com/bittigitti/" },
       
     ],
     // Sidebar
@@ -61,7 +61,7 @@ export default {
         text: "Useful Links",
         collapsible: true,
         items: [
-          { text: "Bitti Gitti on Spotify", link: "/introduction" },
+          { text: "Bitti Gitti on Spotify", link: "https://open.spotify.com/artist/6pHu6yn12MFevc5KOj3RZq?si=ORmmYi3ES2Csi74ovxD7qA" },
           { text: "E-Books on Amazon", link: "/getting-started" },
           { text: "Request a render", link: "/getting-started" },
           { text: "Pitch us your ideas!", link: "/getting-started" },
@@ -71,6 +71,7 @@ export default {
     footer: {
       message: "www.bitti-gitti.com",
       copyright: "© 2023-Bitti Gitti",
+      
     },
     markdown: {
       theme: "material-palenight",
