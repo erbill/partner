@@ -24,7 +24,7 @@ export default {
     
     // Social Icons
     socialLinks: [
-      { icon: "dropbox", link: "github.com/evavic44" },
+      { icon: "cloud_download", link: "github.com/evavic44" },
       { icon: "twitter", link: "https://twitter.com/bittigitti" },
       { icon: "discord", link: "..." },
       
