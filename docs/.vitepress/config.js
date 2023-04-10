@@ -37,7 +37,7 @@ export default {
         collapsible: true,
         items: [
           { text: "Introduction", link: "/introduction" },
-          { text: "Setting your Online Store", link: "/getting-started" },
+          { text: "Setting your Online Store", link: "/guide" },
         ],
       },
       {
@@ -52,7 +52,7 @@ export default {
         text: "Marketing Ideas",
         collapsible: true,
         items: [
-          { text: "Personification", link: "/introduction" },
+          { text: "Persona Specific", link: "/personas" },
           { text: "B2B Sales", link: "/getting-started" },
           { text: "Workshops", link: "/workshops" },
           { text: "Drop Strategy", link: "/dropstrategy" },
