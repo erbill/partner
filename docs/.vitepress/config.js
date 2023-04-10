@@ -7,8 +7,8 @@ export default {
     siteTitle: "Partners",
     // Navbar Link
     nav: [
-      { text: "Getting Started", link: "/about" },
-      { text: "Guide", link: "/guide" },
+      { text: "Getting Started", link: "/guide" },
+      { text: "About", link: "/about" },
       { text: "Strategy AI", link: "https://twsbot.bitti-gitti.com" },
       {
         // Dropdown Menu

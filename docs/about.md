@@ -1,21 +1,49 @@
-# About
+# About Bitti Gitti
 
-Welcome to the about page.
+Welcome to Bitti Gitti, a maker and designer company that specializes in creating unique, functional design objects with our original Flowcraft™ method. Since our founding by Erbil Sivaslioglu, we have been handcrafting every product with love and care.
 
-This markdown supports html elements like the `p` tag coupled with inline styles
+## Our Founder and Team
 
-<p style="color: var(--vp-c-brand-dark); border: 1px solid var(--vp-c-brand-dark); border-radius:5px; padding: 1rem;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+Erbil Sivaslioglu is not only our founder but also a designer, industrial engineer, and maker with a passion for creating remarkable products. From using 3D models to wood crafting to adding the perfect details, Erbil is devoted to every aspect of Bitti Gitti.
 
-Even satire code snippets with syntax highlighting are also supported. 😅
+Our team is also made up of creative and innovative individuals, dedicated to providing our customers with top-quality products and services. Together, we are continuously striving to improve our designs and find new ways of blending traditional woodworking with modern technology and tools.
 
-```js
-const lang = prompt("What is your favorite programming language?");
+## Our Products
 
-(lang === "JavaScript") | (lang === "javascript") | (lang === "js")
-  ? alert("JavaScript to the world! 🚀🟡")
-  : alert(`We don't permit such languages here 💩`);
-```
+At Bitti Gitti, we are dedicated to creating unique and functional design objects that are made to last a lifetime. Our product range includes:
 
-Of course, images are not left out.
+* The award-winning Wooden Sound System
 
-<img src="/logo.png" alt="bitti gitti logo">
+* The Wooden Notebook Making Kit
+
+* The Wooden Kaleidoscope
+
+Every product is made of prime quality birchwood and coated with water-based varnish, ensuring durability, sustainability and a smooth finish. We also offer custom engravings and a range of colors to make your product truly unique.
+
+## Our Values
+
+Our values are central to everything we do at Bitti Gitti. Here's what we believe in:
+
+* Beautiful can also be functional
+
+* Aim for Zero Waste
+
+* Fusion for the Win
+
+* Value Oriented
+
+* Sharing is Loving
+
+## Our Workshops and DIY Kits
+
+In addition to creating remarkable products, we also offer workshops and DIY kits to share our knowledge and learnings with others. From notebook making to the Wooden Sound System customization, we aim to provide a fun and engaging experience while creating something truly unique.
+
+## Our Music
+
+Bitti Gitti is not only dedicated to creating functional design objects but also to crafting hand-made [music](/music.md)music. Founder Erbil Sivaslioglu is a poly-instrumentalist, playing drums, electric guitar, bass, and piano. Our collaborative approach to music-making allows our team members to contribute to the process, ensuring that every tune reflects our innovative design approach.
+
+## Conclusion
+
+At Bitti Gitti, we believe in creating unique value for our partners and community. From our award-winning products to our handcrafted music and workshops, we are dedicated to delivering a complete experience that reflects our passion for creating remarkable products. Join us in our journey and experience the joy of functional design today!
+
+<img src="/bitti-gitti-logo.svg" alt="bitti gitti logo">

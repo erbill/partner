@@ -1,6 +1,6 @@
-![banner](https://user-images.githubusercontent.com/62628408/201538130-a1008969-06ae-4aad-9ea0-b77384d6bac1.png)
+![banner](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/6278d606dc4cb05881b231e2_Kurumsal-2022-1.jpg)
 
-# How to build modern docs with VitePress
+# Let's get started
 
 ::: info
 Documentation is a crucial aspect of software development that is often neglected by developers due to the hassle of maintaining one, or even choosing the right tools to use. This is why it's important to use tools that simplify this process. In this tutorial, you'll learn how to build a complete docs site quickly by utilizing a modern tool called, VitePress.
