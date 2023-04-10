@@ -3,7 +3,7 @@ export default {
   description: "An awesome docs built by Bitti Gitti",
 
   themeConfig: {
-    logo: "/logo.png",
+    logo: "/bitti-gitti-logo.svg",
     siteTitle: "Partners",
     // Navbar Link
     nav: [
@@ -27,6 +27,7 @@ export default {
      
       { icon: "twitter", link: "https://twitter.com/bittigitti" },
       { icon: "instagram", link: "https://www.instagram.com/bittigitti/" },
+    
       
     ],
     // Sidebar
@@ -53,8 +54,8 @@ export default {
         items: [
           { text: "Personification", link: "/introduction" },
           { text: "B2B Sales", link: "/getting-started" },
-          { text: "Workshops", link: "/getting-started" },
-          { text: "Drop Strategy", link: "/getting-started" },
+          { text: "Workshops", link: "/workshops" },
+          { text: "Drop Strategy", link: "/dropstrategy" },
         ],
       },
       {
