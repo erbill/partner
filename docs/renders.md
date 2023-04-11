@@ -17,10 +17,6 @@ Another aspect of visuals that we leveraged was performance test videos. We crea
 <iframe src="https://player.vimeo.com/video/542798730?h=816a8526c6" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/542798730">the Wooden Sound System - Volume level test</a> from <a href="https://vimeo.com/bitti">Bitti Gitti</a> </p>
 
-## Responsive Edition
-Sure this is not working
-
-
 ## Combining Compelling Ad Copy with Persuasive Visuals
 
 The combination of compelling ad copy with persuasive visuals can lead to significantly increased engagement and conversions. Customers are more likely to connect with brands that are able to communicate their value proposition in a way that is both emotional and informative.

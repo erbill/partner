@@ -14,11 +14,11 @@ Made of prime quality birchwood and coated with water-based varnish, our product
 
 ## Corporate Creative DIY Events
 
-At Bitti Gitti, we don't just create remarkable design objects, we also provide corporate [creative DIY events](/b2b-events.md) that are fun and engaging. From notebook making to the Wooden Sound System customization, our workshops provide an opportunity for your team to bond while creating something truly unique.
+At Bitti Gitti, we don't just create remarkable design objects, we also provide corporate [creative DIY events](/b2b-events) that are fun and engaging. From notebook making to the Wooden Sound System customization, our workshops provide an opportunity for your team to bond while creating something truly unique.
 
 ## Custom Logo Engravings
 
-We also offer [custom logo engravings](/customizations.md) on our products, giving you the opportunity to showcase your brand's identity on a unique and functional product. With our Flowcraft™ method, we can engrave your logo or custom design onto the devices.
+We also offer [custom logo engravings](/customizations) on our products, giving you the opportunity to showcase your brand's identity on a unique and functional product. With our Flowcraft™ method, we can engrave your logo or custom design onto the devices.
 
 ## Setting Up Your Online Store
 

@@ -40,7 +40,7 @@ In addition to creating remarkable products, we also offer workshops and DIY kit
 
 ## Our Music
 
-Bitti Gitti is not only dedicated to creating functional design objects but also to crafting hand-made [music](/music.md)music. Founder Erbil Sivaslioglu is a poly-instrumentalist, playing drums, electric guitar, bass, and piano. Our collaborative approach to music-making allows our team members to contribute to the process, ensuring that every tune reflects our innovative design approach.
+Bitti Gitti is not only dedicated to creating functional design objects but also to crafting hand-made [music](/music)music. Founder Erbil Sivaslioglu is a poly-instrumentalist, playing drums, electric guitar, bass, and piano. Our collaborative approach to music-making allows our team members to contribute to the process, ensuring that every tune reflects our innovative design approach.
 
 ## Conclusion
 
