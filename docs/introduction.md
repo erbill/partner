@@ -19,7 +19,6 @@ At Bitti Gitti, we don't just create remarkable design objects, we also provide 
 ## Custom Logo Engravings
 
 We also offer [custom logo engravings](/customizations) on our products, giving you the opportunity to showcase your brand's identity on a unique and functional product. With our Flowcraft™ method, we can engrave your logo or custom design onto the devices.
-
 ## Setting Up Your Online Store
 
 Setting up an online store can be challenging, but Bitti Gitti is here to help. We offer a range of services, including e-commerce website setup, product photography, and social media management. Utilizing our AI of Bitti Gitti, together we can design the strategy that positions the Wooden Sound System to your customer base optimally.
