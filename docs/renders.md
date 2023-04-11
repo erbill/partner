@@ -18,7 +18,7 @@ Another aspect of visuals that we leveraged was performance test videos. We crea
 <p><a href="https://vimeo.com/542798730">the Wooden Sound System - Volume level test</a> from <a href="https://vimeo.com/bitti">Bitti Gitti</a> </p>
 
 ## Responsive Edition
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://vimeo.com/542798730' frameborder='0' allowfullscreen></iframe></div>
+Sure this is not working
 
 ## Responsive Edition with player.vimeo url
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/542798730?h=816a8526c6' frameborder='0' allowfullscreen></iframe></div>
