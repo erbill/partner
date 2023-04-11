@@ -46,4 +46,4 @@ Bitti Gitti is not only dedicated to creating functional design objects but also
 
 At Bitti Gitti, we believe in creating unique value for our partners and community. From our award-winning products to our handcrafted music and workshops, we are dedicated to delivering a complete experience that reflects our passion for creating remarkable products. Join us in our journey and experience the joy of functional design today!
 
-<img src="/bitti-gitti-logo.svg" alt="bitti gitti logo">
+![Bitti Gitti Logo](/public/bitti-gitti-logo.svg)
