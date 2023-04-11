@@ -14,8 +14,14 @@ By using 3D renders, we were able to showcase the Wooden Sound System's unique d
 
 Another aspect of visuals that we leveraged was performance test videos. We created performance test videos that showcased the Wooden Sound System's audio quality in different environments - both indoors and outdoors. By demonstrating the audio quality of the product in real-life settings, we were able to reassure customers that the Wooden Sound System was a worthy investment, not just a beautiful piece of art.
 
-<iframe src="https://player.vimeo.com/video/542798730" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/542798730?h=816a8526c6" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/542798730">the Wooden Sound System - Volume level test</a> from <a href="https://vimeo.com/bitti">Bitti Gitti</a> </p>
 
+## Responsive Edition
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://vimeo.com/542798730' frameborder='0' allowfullscreen></iframe></div>
+
+## Responsive Edition with player.vimeo url
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/542798730?h=816a8526c6' frameborder='0' allowfullscreen></iframe></div>
 
 ## Combining Compelling Ad Copy with Persuasive Visuals
 
