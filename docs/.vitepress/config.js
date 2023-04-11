@@ -53,7 +53,7 @@ export default {
         collapsible: true,
         items: [
           { text: "Persona Specific", link: "/personas" },
-          { text: "B2B Sales", link: "/getting-started" },
+          { text: "B2B Sales", link: "/b2b-events" },
           { text: "Workshops", link: "/workshops" },
           { text: "Drop Strategy", link: "/dropstrategy" },
         ],

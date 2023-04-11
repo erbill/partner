@@ -20,15 +20,13 @@ Another aspect of visuals that we leveraged was performance test videos. We crea
 ## Responsive Edition
 Sure this is not working
 
-## Responsive Edition with player.vimeo url
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/542798730?h=816a8526c6' frameborder='0' allowfullscreen></iframe></div>
 
 ## Combining Compelling Ad Copy with Persuasive Visuals
 
 The combination of compelling ad copy with persuasive visuals can lead to significantly increased engagement and conversions. Customers are more likely to connect with brands that are able to communicate their value proposition in a way that is both emotional and informative.
 
-## Wooden Sound System Renders
+## the Wooden Sound System Renders
 
-To showcase some of our 3D renders, please click the following link: [Wooden Sound System Renders](https://www.dropbox.com/sh/kz9v3l4fvhj35sn/AAAQXDURcm0B4sfzxPjRCwzHa?dl=0). These renders can be used by store owners in their marketing campaigns to showcase the beauty and innovative design of the Wooden Sound System.
+To showcase some of our 3D renders, please click the following link: [the Wooden Sound System Renders](https://www.dropbox.com/sh/kz9v3l4fvhj35sn/AAAQXDURcm0B4sfzxPjRCwzHa?dl=0). These renders can be used by store owners in their marketing campaigns to showcase the beauty and innovative design of the Wooden Sound System.
 
 In conclusion, visuals are an essential aspect of a successful ad campaign. By leveraging the power of 3D renders and performance test videos, we were able to create a compelling campaign for the Wooden Sound System that captivated customers and resulted in increased engagement and conversions.
