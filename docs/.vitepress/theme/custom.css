@@ -2,11 +2,11 @@
 @import url(https://fonts.googleapis.com/css?family=Space+Grotesk:regular,italic,700,700italic);
 
 :root {
-  --vp-c-brand: #cc6d0e;
+  --vp-c-brand: #f38212;
   --vp-c-brand-light: #ff5719;
   --vp-c-brand-lighter: #ff7340;
   --vp-c-brand-lighter: rgba(255, 135, 23, 0.25);
-  --vp-c-brand-dark: #a76f16;
+  --vp-c-brand-dark: #f86b33;
   --vp-c-brand-darker: #425a04;
 
   --vp-c-sponsor: #501072;
