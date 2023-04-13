@@ -1,4 +1,4 @@
-# Emailing
+<!-- # Emailing
 
 Maximizing the impact of your emails is crucial for effectively promoting the Wooden Sound System. As an expert in sales and marketing, we'll explore optimal emailing strategies, different types of emails, and provide three alternative email templates varying in length and tone.
 
@@ -157,4 +157,4 @@ Yours uniquely,<br>
 ::: tip
 
 Replace the placeholders like `[Surfing Store Name]`, `[Boutique Florist Name]`, `[Unique Gifts Store Name]`, `[Your Name]`, and `#` with the relevant store names, your name, and the actual landing page or product page URL, respectively.
-:::
+::: -->
