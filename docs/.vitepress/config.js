@@ -42,35 +42,35 @@ export default {
             { text: "Setting your Online Store", link: "/getting-started" },
           ],
         },
-        // {
-        //   text: "Products",
-        //   collapsible: true,
-        //   items: [
-        //     { text: "the Wooden Sound System", link: "/tws" },
-        //     { text: "the Wooden Kaleidoscope", link: "/getting-started" },
-        //   ],
-        // },
-        // {
-        //   text: "Marketing Ideas",
-        //   collapsible: true,
-        //   items: [
-        //     { text: "Personification", link: "/personas" },
-        //     { text: "B2B Sales", link: "/b2b-events" },
-        //     { text: "Workshops", link: "/workshops" },
-        //     { text: "Drop Strategy", link: "/dropstrategy" },
-        //     { text: "E-Mailing", link: "/emailing" },
-        //   ],
-        // },
-        // {
-        //   text: "Useful Links",
-        //   collapsible: true,
-        //   items: [
-        //     { text: "Bitti Gitti on Spotify", link: "/music" },
-        //     { text: "E-Books for Business Owners", link: "/ebooks" },
-        //     { text: "Request a render", link: "/getting-started" },
-        //     { text: "Pitch us your ideas!", link: "/getting-started" },
-        //   ],
-        // },
+        {
+          text: "Products",
+          collapsible: true,
+          items: [
+            { text: "the Wooden Sound System", link: "/tws" },
+            { text: "the Wooden Kaleidoscope", link: "/getting-started" },
+          ],
+        },
+        {
+          text: "Marketing Ideas",
+          collapsible: true,
+          items: [
+            { text: "Personification", link: "/personas" },
+            { text: "B2B Sales", link: "/b2b-events" },
+            { text: "Workshops", link: "/workshops" },
+            { text: "Drop Strategy", link: "/dropstrategy" },
+            { text: "E-Mailing", link: "/emailing" },
+          ],
+        },
+        {
+          text: "Useful Links",
+          collapsible: true,
+          items: [
+            { text: "Bitti Gitti on Spotify", link: "/music" },
+            { text: "E-Books for Business Owners", link: "/ebooks" },
+            { text: "Request a render", link: "/getting-started" },
+            { text: "Pitch us your ideas!", link: "/getting-started" },
+          ],
+        },
       ],
       footer: {
         message: "www.bitti-gitti.com",

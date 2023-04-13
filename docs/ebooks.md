@@ -1,4 +1,4 @@
-# Ebooks
+<!-- # Ebooks
 
 Bitti Gitti's founder Erbil Sivaslioglu shares his experience through working with 250+ boutique stores and making custom DIY events with brands like Spotify, Snapchat, Airbnb, and Google. We have 2 books: one on boutique store success and the other providing easy-to-follow templates for small business owners.
 
@@ -104,4 +104,4 @@ Join this amazing journey with 50+ thought-provoking questions and actionable pl
 
 Replace the `book-cover-image-link.jpg` and `amazon-link` placeholders with links to the actual image and Amazon store page, respectively. 
 
-When rendered, the page will include headings, bullet points, and an image reference.
+When rendered, the page will include headings, bullet points, and an image reference. -->
