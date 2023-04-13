@@ -54,12 +54,11 @@ export default {
           text: "Marketing Ideas",
           collapsible: true,
           items: [
-            { text: "E-Mailing", link: "/emailing" },
             { text: "Personification", link: "/personas" },
             { text: "B2B Sales", link: "/b2b-events" },
             { text: "Workshops", link: "/workshops" },
             { text: "Drop Strategy", link: "/dropstrategy" },
-            
+            { text: "E-Mailing", link: "/emailing" },
           ],
         },
         {
