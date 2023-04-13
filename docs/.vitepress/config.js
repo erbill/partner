@@ -65,7 +65,7 @@ export default {
           collapsible: true,
           items: [
             { text: "Bitti Gitti on Spotify", link: "/introduction" },
-            { text: "E-Books on Amazon", link: "/getting-started" },
+            { text: "E-Books for Business Owners", link: "/ebooks" },
             { text: "Request a render", link: "/getting-started" },
             { text: "Pitch us your ideas!", link: "/getting-started" },
           ],
