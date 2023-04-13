@@ -78,9 +78,9 @@
   }
 }
   
-  .copy-info-box:hover {
-    /*background-color: #fffcf0; /* slightly lighter yellow background on hover */
-  }
+  /* .copy-info-box:hover {
+    background-color: #fffcf0; /* slightly lighter yellow background on hover 
+  } */
   
 
   

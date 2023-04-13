@@ -54,17 +54,19 @@ export default {
           text: "Marketing Ideas",
           collapsible: true,
           items: [
-            { text: "Personification", link: "/introduction" },
-            { text: "B2B Sales", link: "/getting-started" },
-            { text: "Workshops", link: "/getting-started" },
-            { text: "Drop Strategy", link: "/getting-started" },
+            { text: "E-Mailing", link: "/emailing" },
+            { text: "Personification", link: "/personas" },
+            { text: "B2B Sales", link: "/b2b-events" },
+            { text: "Workshops", link: "/workshops" },
+            { text: "Drop Strategy", link: "/dropstrategy" },
+            
           ],
         },
         {
           text: "Useful Links",
           collapsible: true,
           items: [
-            { text: "Bitti Gitti on Spotify", link: "/introduction" },
+            { text: "Bitti Gitti on Spotify", link: "/music" },
             { text: "E-Books for Business Owners", link: "/ebooks" },
             { text: "Request a render", link: "/getting-started" },
             { text: "Pitch us your ideas!", link: "/getting-started" },
