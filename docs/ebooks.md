@@ -1,4 +1,4 @@
-<!-- # Ebooks
+# Ebooks
 
 Bitti Gitti's founder Erbil Sivaslioglu shares his experience through working with 250+ boutique stores and making custom DIY events with brands like Spotify, Snapchat, Airbnb, and Google. We have 2 books: one on boutique store success and the other providing easy-to-follow templates for small business owners.
 
@@ -99,9 +99,4 @@ _"What an eye-opening read! "The Boutique Owner's Handbook" has not only helped 
 
 Join this amazing journey with 50+ thought-provoking questions and actionable plans.
 
-[Get the book on Amazon](amazon-link)
-
-
-Replace the `book-cover-image-link.jpg` and `amazon-link` placeholders with links to the actual image and Amazon store page, respectively. 
-
-When rendered, the page will include headings, bullet points, and an image reference. -->
+[Get the book on Amazon](https://www.amazon.com/dp/B0BYVK5D6Z)
