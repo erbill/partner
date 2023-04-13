@@ -26,3 +26,7 @@
     margin-right: 8px;
     height: 44px;
 }
+
+img {
+  border-radius: 12px; /* Adjust this value to your preference */
+}

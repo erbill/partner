@@ -70,6 +70,12 @@
     max-width: 600px; /* adjust the max-width to match your desired width for the component */
     margin-top: 1.2rem;
     margin-bottom: 2rem;
+    color: black;
+}
+@media (prefers-color-scheme: dark) {
+  .copy-info-box {
+    --text-color: #333;
+  }
 }
   
   .copy-info-box:hover {
