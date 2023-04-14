@@ -26,6 +26,12 @@ Here are some of the benefits our Corporate DIY events can offer:
 
 Our collaborative approach to Corporate DIY events guarantees a fun and engaging experience for everyone involved. We offer top-quality materials and tools to ensure that every product reflects your team's innovation and creativity.
 
+## Laser Engravings and further customizations
+
+Both DIY edition and varnished the Wooden Sound Systems can be customized with logo engravings. For more information on this you can visit [Customizations](/customizations) page for more.
+
 ## Conclusion
 
-Corporate DIY events are an excellent way of encouraging innovation, creativity, and employee morale. They can also provide great bonding experiences for your team members. At Bitti Gitti, we are dedicated to delivering unique, functional design objects while fostering teamwork, innovation, and creativity. Get in touch today, and let's create something remarkable together!
+Corporate DIY events are an excellent way of encouraging innovation, creativity, and employee morale. They can also provide great bonding experiences for your team members. At Bitti Gitti, we are dedicated to delivering unique, functional design objects while fostering teamwork, innovation, and creativity. 
+
+Get in touch today, and let's create something remarkable together!

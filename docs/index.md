@@ -8,7 +8,7 @@ hero:
   image:
     src: /bitti-gitti-logo.svg
     alt: Bitti Gitti Partners Page
-  tagline: Let's find the best content strategy store! 
+  tagline: Let's create the best content for your store! 
   actions:
     - theme: brand
       text: Get Started

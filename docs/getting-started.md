@@ -34,7 +34,7 @@ In this section, we provide you with all the relevant information that you'll ne
 
 <CopyInfoBox>
   <p>
-    Transform your smartphone audioexperience with the award-winning Wooden Sound System by Bitti Gitti. \n\n MadeExpertly crafted from prime quality birchwood and coated with water-based varnish, this passive amplifier for smartphones is a unique, functional, and eco-friendly way to enhance your device's volume.
+    Transform your smartphone audioexperience with the award-winning Wooden Sound System by Bitti Gitti. MadeExpertly crafted from prime quality birchwood and coated with water-based varnish, this passive amplifier for smartphones is a unique, functional, and eco-friendly way to enhance your device's volume.
   </p>
   <p>
     The Wooden Sound System boosts your smartphone's volume by 25 dB, equating to a 4x increase in perceived loudness. Designed to be compatible with all smartphones, this hand-crafted piece of art is perfect for listening to music, watching movies, or hands-free calling. It is also coated in a water-based varnish to ensure durability and long-lasting quality. Results may vary depending on your smartphone case thickness.
