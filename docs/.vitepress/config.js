@@ -9,14 +9,14 @@ export default {
       nav: [
         { text: "About", link: "/about" },
         { text: "Guide", link: "/guide" },
-        { text: "Alternative Content", link: "/configs" },
+        { text: "Fast Setup", link: "/getting-started" },
         {
           // Dropdown Menu
           text: "Useful Links",
           items: [
-            { text: "Spotify", link: "/item-1" },
-            { text: "Amazon E-Books", link: "/item-2" },
-            { text: "Vimeo", link: "/item-3" },
+            { text: "Spotify", link: "/music" },
+            { text: "Amazon E-Books", link: "/ebooks" },
+            { text: "Vimeo", link: "https://vimeo.com/bitti" },
           ],
         },
       ],

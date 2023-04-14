@@ -18,11 +18,11 @@ The Wooden Sound System DIY Kit allows you to create your own high-quality audio
 
 ## Screen Printing Kit
 
-The Screen Printing Kit is perfect for those interested in creating their own customized t-shirts or tote bags. Store owners can send us their designs, and we will create the print-ready screen printing frames. It is also appropriate for children who want to print something remarkable for themselves.
+The Screen Printing Kit is perfect for those interested in creating their own customized 👕 t-shirts or tote bags. Store owners can send us their designs, and we will create the print-ready screen printing frames. It is also appropriate for children who want to print something remarkable for themselves.
 
 ## DIY Notebook Making Kit
 
-The DIY Notebook Making Kit is perfect for those who want to learn how to make and bind their notebooks. Our easy-to-follow 3D rendering animations and real video footage of slowly making the notebook make it easier for you to understand the techniques.
+The DIY Notebook Making Kit is perfect for those who want to learn how to make and bind their 📔 notebooks. Our easy-to-follow 3D rendering animations and real video footage of slowly making the notebook make it easier for you to understand the techniques.
 
 ## Corporate DIY Events
 

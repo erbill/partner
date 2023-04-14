@@ -19,6 +19,18 @@
   /* Code Snippet font */
   --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New",
     monospace;
+
+    /** in /docs/.vitepress/theme/custom.css */
+--vp-home-hero-name-color: transparent;
+--vp-home-hero-name-background: -webkit-linear-gradient(
+  120deg,
+  #e67307,
+  #f89719,
+  #ff7e28,
+  #f88214
+);
+
+
    
 
 }
@@ -30,3 +42,4 @@
 img {
   border-radius: 12px; /* Adjust this value to your preference */
 }
+
