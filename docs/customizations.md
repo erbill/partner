@@ -22,7 +22,7 @@ At Bitti Gitti, we've combined traditional woodworking with cutting-edge technol
 
 We ensure that the finished product meets your expectations and showcases the high standards that you uphold for your store. We aim to create a unique value proposition for your customers.
 
-![Image](https://www.dropbox.com/s/9dkr3adaxg1eoc1/TWS-Laser-.jpg)
+
 
 ## Why Partnering With Bitti Gitti is the Right Choice
 
