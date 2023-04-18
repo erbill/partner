@@ -14,8 +14,8 @@ hero:
       text: Get Started
       link: /guide
     - theme: alt
-      text: View in Dropbox
-      link: https://www.dropbox.com/sh/ceyjmai55cvvom0/AAB6NZZzynB9bSv9NbgU6pHZa
+      text: Image Library
+      link: https://tws-images.bitti-gitti.com
 
 # Features section
 features:
