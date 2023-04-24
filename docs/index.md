@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide
+      link: /introduction
     - theme: alt
       text: Image Library
       link: https://tws-images.bitti-gitti.com

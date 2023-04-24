@@ -4,7 +4,7 @@
 
 In this section, we provide you with all the relevant information that you'll need to create a high-converting product listing for the Wooden Sound System in your online store. By setting up your product listing using the provided title, descriptions, meta text, keywords, related categories, and images, you will improve your store's SEO, marketing efforts, and sell-through rates.
 
-### Title
+## Title
 
 <CopyInfoBox>
   <p>
@@ -19,7 +19,7 @@ In this section, we provide you with all the relevant information that you'll ne
   </CopyInfoBox>
 
 
-### Product Description - Short Version
+## Product Description - Short Version
 <CopyInfoBox>
   <p>
   Elevate your smartphone audio experience with the Wooden Sound System, an award-winning, hand-crafted, and eco-friendly passive amplifier by Bitti Gitti.
@@ -59,7 +59,7 @@ Its expertly designed inner sound tunnel and rings amplify music volume by 400%.
  </p>
 </CopyInfoBox>
 
-### Meta Text
+## Meta Text
 
 <CopyInfoBox>
   <p>
@@ -73,7 +73,7 @@ Meta description is also can be shown when people share that URL on social media
 :::
 
 
-### Keywords
+## Keywords
 
 <CopyInfoBox>
   <p>
@@ -88,10 +88,16 @@ Meta description is also can be shown when people share that URL on social media
 - Audio Accessories
 - Handcrafted & Artisanal Items
 
-### Photos
-In order to make your product look its best, we recommend using high-quality images that showcase the Wooden Sound System in various settings and angles. Please download the following photos [\[here\]](https://www.bitti-gitti.com/corporate-solutions) and add them to your product listing.
+## Photos
+In order to make your product look its best, we recommend using high-quality images that showcase the Wooden Sound System in various settings and angles. 
 
-### Dimensions
+Please visit [tws-images.bitti-gitti.com](https://tws-images.bitti-gitti.com) to find the most suited TWS photos for your store.
+
+![banner](/images1.jpg)
+
+You can use the buttons at the top of the page to quickly filter the Wooden Sound Systems by color and engraving options.
+
+## Dimensions
 
 | Dimension | Inches | Centimeters |
 |-----------|--------|-------------|
@@ -100,7 +106,7 @@ In order to make your product look its best, we recommend using high-quality ima
 | Height    | 3.9 in | 10 cm       |
 | Weight    | 1.10 lb| 500 gr      |
 
-### Additional Product Details
+## Additional Details
 To make your product listing as informative as possible, consider including the following details about the Wooden Sound System:
 
 - Material: Prime quality birchwood
