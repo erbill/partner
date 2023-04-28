@@ -2,25 +2,18 @@
 
 # Let's get started
 
-::: info
-Documentation is a crucial aspect of software development that is often neglected by developers due to the hassle of maintaining one, or even choosing the right tools to use. This is why it's important to use tools that simplify this process. In this tutorial, you'll learn how to build a complete docs site quickly by utilizing a modern tool called, VitePress.
+::: tip Thank You!
+We're prepared this Partners' platform to make your value creation process even smoother.
 :::
 
-## Definition
+## Online Store
 
-[VitePress](https://vitepress.vuejs.org/) is a simple and performant static site generator built on top of [Vite](https://vitejs.dev) for creating docs in a matter of minutes. It is powered by [Vuejs](https://vuejs.org/), and Vite with built in customizable components. VitePress powers some popular documentation sites like Vuejs, [Vitest](https://vitest.dev/), [faker.js](https://fakerjs.dev/), and Vite itself.
+[Getting Started](/getting-started) is a great resource to find alternative titles, product description and keywords.
 
-## Prerequisites
+## Social Media
 
-To follow along with this tutorial, you need to have a basic understanding of the following:
-
-- [Markdown](https://daringfireball.net/projects/markdown/) syntax
-- Brief understanding of NPM and Vite
-
-Here's a screenshot of what you'll be building at the end of this tutorial.
-
-![final-works](https://user-images.githubusercontent.com/62628408/201538907-fe67b791-02c4-413c-ae3d-02635b53e20b.png)
-
+If you'd like to anounce the upcoming the Wooden Sound Systems, [TWS Photo Library](https://tws-images.bitti-gitti.com)
+is great to grab some amazing visuals. Also for inspiration you can check out [Social Shares](https://shares.bitti-gitti.com)
 ## Step. 1: Create a new project
 
 If you already have a folder created, you can skip this step to the next one if not, use the following command to create a project folder and move into the folder.
