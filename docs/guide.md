@@ -6,14 +6,23 @@
 We're prepared this Partners' platform to make your value creation process even smoother.
 :::
 
-## Online Store
+
+## Online Store Content
 
 [Getting Started](/getting-started) is a great resource to find alternative titles, product description and keywords.
 
-## Social Media
+![Images](/SS.jpg)
+
+## Photos and Renders 
 
 If you'd like to anounce the upcoming the Wooden Sound Systems, [TWS Photo Library](https://tws-images.bitti-gitti.com)
-is great to grab some amazing visuals. Also for inspiration you can check out [Social Shares](https://shares.bitti-gitti.com)
+is great to grab some amazing visuals. 
+
+![Images](/images1.jpg)
+
+
+## Social Media
+Also for inspiration you can check out [Social Shares](https://shares.bitti-gitti.com)
 ## Step. 1: Create a new project
 
 If you already have a folder created, you can skip this step to the next one if not, use the following command to create a project folder and move into the folder.
