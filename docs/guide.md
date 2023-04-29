@@ -23,6 +23,7 @@ is great to grab some amazing visuals.
 
 ## Social Media
 Also for inspiration you can check out [Social Shares](https://shares.bitti-gitti.com)
+
 ## Step. 1: Create a new project
 
 If you already have a folder created, you can skip this step to the next one if not, use the following command to create a project folder and move into the folder.
