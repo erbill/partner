@@ -8,6 +8,8 @@ At Bitti Gitti, we not only focus on designing and creating remarkable products 
 
 Erbil Sivaslioglu, the founder of Bitti Gitti, is a gifted industrial engineer, designer, and maker. He is also a poly-instrumentalist, passionate about making music. Erbil plays the drums, electric guitar, bass, and piano and his music is a reflection of his innovative design approach, blending classic and contemporary styles.
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0oisVPkR1TQbiKgvaENlSh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## Our Collaborative Approach
 
 At Bitti Gitti, we believe in the power of collaboration to create remarkable outcomes. That's why every team member contributes to the music-making process. From creating infectious rhythms, coming up with catchy melodies, to mixing and mastering, we all put our creative inputs to deliver the best handcrafted music possible.
@@ -39,3 +41,5 @@ Our handcrafted music is versatile and can work well in various industries, incl
 ## Conclusion
 
 By adding our handcrafted music to your store, you can create a remarkable atmosphere that leaves a lasting impression on your customers. Our poly-instrumentalist founder and collaborative approach to music-making guarantee a unique and authentic experience that aligns with your brand's identity. So, what are you waiting for? Play our music and enhance your customer's shopping experience today!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6pHu6yn12MFevc5KOj3RZq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

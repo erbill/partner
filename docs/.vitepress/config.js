@@ -25,6 +25,7 @@ export default {
       socialLinks: [
         
         { icon: "twitter", link: "https://twitter.com/bittigitti" },
+        { icon: "instagram", link: "https://instagram.com/bittigitti" },
         
         {
           icon: {
@@ -40,11 +41,11 @@ export default {
           collapsible: true,
           items: [
             { text: "Introduction", link: "/introduction" },
-            { text: "Setting your Online Store", link: "/getting-started" },
+            { text: "Setting up your Online Store", link: "/getting-started" },
           ],
         },
         {
-          text: "Products",
+          text: "TWS",
           collapsible: true,
           items: [
             { text: "the Wooden Sound System", link: "/tws" },
@@ -68,8 +69,19 @@ export default {
           items: [
             { text: "Bitti Gitti on Spotify", link: "/music" },
             { text: "E-Books for Business Owners", link: "/ebooks" },
-            { text: "Request a render", link: "/getting-started" },
-            { text: "Pitch us your ideas!", link: "/getting-started" },
+            { text: "Blog", link: "https://blog.bitti-gitti.com" },
+            { text: "Social Shares", link: "https://shares.bitti-gitti.com" },
+            { text: "Strategy AI", link: "https://twsbot.bitti-gitti.com" },
+          ],
+        },
+
+        {
+          text: "Other Products",
+          collapsible: true,
+          items: [
+            { text: "Notebook Making Kit", link: "/tws" },
+            { text: "the Musical Wheel", link: "/tws" },
+            { text: "the Wooden Kaleidoscope", link: "/getting-started" },
           ],
         },
       ],
