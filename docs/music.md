@@ -16,7 +16,7 @@ At Bitti Gitti, we believe in the power of collaboration to create remarkable ou
 
 ## Play Our Music and Enhance Your Customer's Experience
 
-By playing our handcrafted music in your store, you can:
+By playing our handcrafted music in your store, you can :
 
 * Create a warm and friendly ambiance that reflects your brand identity.
 
