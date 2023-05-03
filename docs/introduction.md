@@ -4,7 +4,7 @@ Are you looking for a partner that can help you deliver unique and functional de
 
 At Bitti Gitti, we specialize in creating remarkable design objects that blend traditional woodworking with cutting-edge technology and tools. Our product range includes:
 
-* The award-winning Wooden Sound System
+* [the Wooden Sound System](/tws)
 
 * The Wooden Notebook Making Kit
 
