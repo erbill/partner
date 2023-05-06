@@ -2,7 +2,6 @@
 
 Visuals are an essential aspect of a successful ad campaign. The use of compelling visuals can dramatically improve the effectiveness of ad copy, leading to increased brand love and a greater connection among targeted audiences. A perfect example of such a campaign is the Wooden Sound System.
 
-
 ![3D renders](https://res.cloudinary.com/ddy9ua0yy/image/upload/TWS/Store-Wide-1_mixjrn.jpg)
 
 ## Leveraging the Power of 3D Renders

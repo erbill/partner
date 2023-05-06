@@ -80,7 +80,7 @@ export default {
           text: "Other Products",
           collapsible: true,
           items: [
-            { text: "Notebook Making Kit", link: "/tws" },
+            { text: "Notebook Making Kit", link: "/notebooks" },
             { text: "the Musical Wheel", link: "/tws" },
             { text: "the Wooden Kaleidoscope", link: "/getting-started" },
           ],
