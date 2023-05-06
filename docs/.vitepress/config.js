@@ -62,6 +62,7 @@ export default {
             { text: "Workshops", link: "/workshops" },
             { text: "Drop Strategy", link: "/dropstrategy" },
             { text: "E-Mailing", link: "/emailing" },
+            { text: "Major Events & Holidays", link: "/majorevents" },
           ],
         },
         {
