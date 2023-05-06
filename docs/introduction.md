@@ -37,6 +37,6 @@ You can find all the quick start materials from our [Setting up your Online Stor
 
 You can also check out other Super Store's custom social media content created with the Wooden Sound System for inspiration by visiting [shares.bitti-gitti.com](https://shares.bitti-gitti.com)
 
-## Conclusion
+## Let's begin our journey
 
-Bitti Gitti is your partner in delivering remarkable design objects that are functional, sustainable, and unique.
+We're constantly updating this guide, please let us know what you think and how you're utilizing these pages for us to make them even better. 

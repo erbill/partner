@@ -172,3 +172,27 @@ Set up an eye-catching display that showcases the Wooden Kaleidoscope alongside 
 ### Timeless Toy Treasure Trove
 
 Create a nostalgic toy section in your store featuring the Wooden Kaleidoscope as a centerpiece among other classic toys and games. Surround the kaleidoscopes with vintage board games, wooden toys, and timeless playthings that evoke memories of simpler times. Offer a warm and inviting atmosphere that encourages customers to reminisce and appreciate the craftsmanship of the Wooden Kaleidoscope, ultimately boosting its sales.
+
+## Bundle Ideas
+
+Bundles are great way to present your unseen products to your just about to buy customers. These bundles convert well especially when they're coupled with specific personas in mind. Here are some of bundle ideas comes to our mind;
+
+
+### "Art of Symmetry" Bundle:
+
+Wooden Kaleidoscope
+Coloring book with geometric patterns and mandalas
+Set of premium colored pencils
+
+### "Mindful Moments" Bundle:
+
+Wooden Kaleidoscope
+Aromatherapy candle
+Guided meditation book or curated vinyls.
+### "Creative Exploration" Bundle:
+
+Wooden Kaleidoscope
+Artist sketchbook
+Set of watercolor paints and brushes
+
+[Let us know](mailto:kerem@bitti-gitti.com?subject=[Bundles]) what your bundles include and how they're performing.

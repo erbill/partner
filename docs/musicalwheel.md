@@ -184,8 +184,12 @@ You can find all the downloadable versions of the Wooden Musical Wheel photos an
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/537845179?h=e9264718ec" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
+
+
+## In-Store Ideas
 ![In Store Placement Ideas](/instore.jpg)
-### Kaleidoscope Exploration Zone
+
+
 
 ### Music Theory Playground
 
@@ -198,3 +202,28 @@ Set up a cozy corner in your store dedicated to aspiring composers and songwrite
 ### Musician's Toolkit Showcase
 
 Curate a display in your store that highlights the Wooden Musical Wheel as an essential part of every musician's toolkit. Surround the wheel with other useful music accessories, such as metronomes, tuners, capos, and instrument stands. Offer informative materials and demonstrations to show customers how the Wooden Musical Wheel can help them improve their skills and expand their musical knowledge. This comprehensive display will entice musicians of all levels to invest in the Wooden Musical Wheel and other practical accessories for their musical journey.
+
+## Bundle Ideas
+
+Bundles are great way to present your unseen products to your just about to buy customers. These bundles convert well especially when they're coupled with specific personas in mind. Here are some of bundle ideas comes to our mind;
+
+### "Songwriter's Starter Kit" Bundle:
+
+Wooden Musical Wheel
+Songwriting journal with prompts and tips
+Portable digital voice recorder
+
+### "Music Theory Mastery" Bundle:
+
+Wooden Musical Wheel
+Music theory book for beginners
+Flashcards for learning musical notation and symbols
+
+### "Instrumental Inspiration" Bundle:
+
+Wooden Musical Wheel
+Compact, portable instrument (e.g., harmonica, kalimba, or ukulele)
+Instrument care and maintenance kit
+
+
+[Let us know](mailto:kerem@bitti-gitti.com?subject=[Bundles]) what your bundles include and how they're performing.
