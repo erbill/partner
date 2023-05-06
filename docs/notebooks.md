@@ -10,6 +10,26 @@ Bookbinding is an amazing skill to have. With Bitti Gitti's Wooden Notebook Kit,
 
 Website:[the Wooden Notebook Making Kit](https://www.bitti-gitti.com/wholesale/the-wooden-notebook-kit)
 
+## Description
+
+<CopyInfoBox>
+The Wooden Notebook Making Kit has all the essentials to make a remarkable Coptic stitch notebook. With the provided 3D step-by-step animations and video tutorials, it takes less than 15 mins to complete.
+
+The wooden covers are sanded up to a very fine 2,000 grade, for a silk-smooth touch that is ready to paint and/or do pyrography on. Rounded corners not only improve the aesthetics but also the usability.
+
+Each piece of paper is hand folded and has pre-drilled holes aligned with the covers for a seamless DIY experience. The needle included in the kit has a round edge and is safe to use for ages 7+ and over.
+
+The Coptic stitch method featured in the tutorials is universally respected for providing sturdy bindings that last a lifetime, without the need for applying glue or staples.
+
+### Inside the kit are;
+
+* 50 pre-folded papers (a total of 100 useable pages)
+* 2 A5 sized wooden notebook covers
+* 2 colored waxed threads
+* Stitching needle
+* Access card for online tutorials
+</CopyInfoBox>
+
 Dimensions:6,9 in x 3,9 in x 1,8 in
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xXjgxOP-egg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
