@@ -49,7 +49,7 @@ export default {
           collapsible: true,
           items: [
             { text: "the Wooden Sound System", link: "/tws" },
-            { text: "the Wooden Kaleidoscope", link: "/getting-started" },
+            { text: "3D Renders and Visuals", link: "/renders" },
           ],
         },
         {
@@ -57,6 +57,7 @@ export default {
           collapsible: true,
           items: [
             { text: "Personification", link: "/personas" },
+            { text: "Customization", link: "/customizations" },
             { text: "B2B Sales", link: "/b2b-events" },
             { text: "Workshops", link: "/workshops" },
             { text: "Drop Strategy", link: "/dropstrategy" },
