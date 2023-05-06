@@ -83,6 +83,7 @@ export default {
             { text: "Notebook Making Kit", link: "/notebooks" },
             { text: "the Musical Wheel", link: "/musicalwheel" },
             { text: "the Wooden Kaleidoscope", link: "/kaleidoscope" },
+            { text: "the Wooden Pen Holder", link: "/penholder" },
           ],
         },
       ],
