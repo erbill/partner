@@ -2,7 +2,7 @@
 
 ## New Year's Day (January 1st)
 <CopyInfoBox>
-   <h2>Subject Line: New Year, New Sound - Experience the Wooden Sound System! 🎉</h2>
+   <h2>New Year, New Sound - Experience the Wooden Sound System! 🎉</h2>
     
 <p>Happy New Year! Kick off 2023 by enhancing your music experience with the Wooden Sound System from Bitti Gitti Design Studio. Elevate your home or office with this eco-friendly and stylish speaker. Shop now and start your year on a high note!</p>
 </CopyInfoBox>
@@ -23,8 +23,7 @@
 
 ## Graduation Season (May-June)
 <CopyInfoBox>
-    Subject Line: <h2>
-        Celebrate Your Grad's Success with the Wooden Sound System! 🎓
+    <h2>Celebrate Your Grad's Success with the Wooden Sound System! 🎓
     </h2>
 <p>Congratulate your favorite graduate with the ultimate gift - the Wooden Sound System from Bitti Gitti Design Studio. Give them the gift of high-quality sound, stylish design, and eco-friendliness as they embark on their next chapter. Hurry, shop now and make their big day even more special!</p>
 </CopyInfoBox>
