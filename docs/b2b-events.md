@@ -12,7 +12,6 @@ You can visit [bitti-gitti.com/corporate/workshops](https://www.bitti-gitti.com/
 
 Our Corporate DIY events are tailored to your team's needs and company's brand identity. Each event involves creating a high-quality product using our original Flowcraft™ method. From Wooden Sound System customization to notebook making, we offer a range of products that can suit any industry's need.
 
-
 ## Why Choose Bitti Gitti's Corporate DIY Events
 
 Here are some of the benefits our Corporate DIY events can offer:
@@ -39,6 +38,6 @@ Both DIY edition and varnished the Wooden Sound Systems can be customized with l
 
 ## Conclusion
 
-Corporate DIY events are an excellent way of encouraging innovation, creativity, and employee morale. They can also provide great bonding experiences for your team members. At Bitti Gitti, we are dedicated to delivering unique, functional design objects while fostering teamwork, innovation, and creativity. 
+Corporate DIY events are an excellent way of encouraging innovation, creativity, and employee morale. They can also provide great bonding experiences for your team members. At Bitti Gitti, we are dedicated to delivering unique, functional design objects while fostering teamwork, innovation, and creativity.
 
 Get in touch today, and let's create something remarkable together!

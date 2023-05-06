@@ -1,6 +1,6 @@
 # Custom Engraved Wooden Sound System - The Unique Value Proposition For Your Boutique Store
 
-Are you looking for a way to offer your customers a remarkable and unique audio experience? Welcome to Bitti Gitti's custom engraved Wooden Sound System, the perfect combination of classic design and modern technology. 
+Are you looking for a way to offer your customers a remarkable and unique audio experience? Welcome to Bitti Gitti's custom engraved Wooden Sound System, the perfect combination of classic design and modern technology.
 
 ![customgifts](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5ff214f69f2331274db4d563_Lazer-wide.jpg)
 
@@ -20,7 +20,7 @@ Are you looking for a way to offer your customers a remarkable and unique audio 
 
 ## Our Customization Process
 
-At Bitti Gitti, we've combined traditional woodworking with cutting-edge technology, to offer a personalized product that meets your specific needs. Our custom engraving process utilizes our Flowcraft™ method, allowing you to engrave your store's logo, any custom design, or artwork onto the device. You can also choose your favorite color to match your branding. 
+At Bitti Gitti, we've combined traditional woodworking with cutting-edge technology, to offer a personalized product that meets your specific needs. Our custom engraving process utilizes our Flowcraft™ method, allowing you to engrave your store's logo, any custom design, or artwork onto the device. You can also choose your favorite color to match your branding.
 
 We ensure that the finished product meets your expectations and showcases the high standards that you uphold for your store. We aim to create a unique value proposition for your customers.
 
@@ -46,11 +46,10 @@ Ordering your custom engraved Wooden Sound System is quick and easy. Simply visi
 
 Partnering with Bitti Gitti for your customized Wooden Sound System can deliver remarkable value and a unique audio experience for your customer base. Personalizing your device with your store's logo and custom colors showcases your brand's identity and commitment to sustainability. Maximizing the Wooden Sound System's functionality in a unique way can help give your business that extra edge.
 
-
 ![TWS Customization](https://tws-customization.bitti-gitti.com/tws-image.jpg)
 
 ## Test Your Designs
 
-You can check out our simple browser based tool for visualizing your desired logo on the Wooden Sound System. If you have your design file .SVG format, you can start visualizing with [Laser Engrave Visualizer](https://tws-customization.bitti-gitti.com/) . 
+You can check out our simple browser based tool for visualizing your desired logo on the Wooden Sound System. If you have your design file .SVG format, you can start visualizing with [Laser Engrave Visualizer](https://tws-customization.bitti-gitti.com/) .
 
 When you're happy with your design please send it to [hey@bitti-gitti.com](mailto:hey@bitti-gitti.com) to turn it into a reality.
