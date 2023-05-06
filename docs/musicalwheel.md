@@ -184,3 +184,17 @@ You can find all the downloadable versions of the Wooden Musical Wheel photos an
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/537845179?h=e9264718ec" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
+![In Store Placement Ideas](/instore.jpg)
+### Kaleidoscope Exploration Zone
+
+### Music Theory Playground
+
+Design a fun and educational music theory area in your store where customers can explore the Wooden Musical Wheel alongside other music theory resources. Display instructional books, posters, and tools that help musicians and composers grasp fundamental concepts. Provide a hands-on experience with the Wooden Musical Wheel, allowing customers to see how it can enhance their understanding of scales, chords, and progressions. This informative and engaging section will inspire customers to invest in their musical education and purchase the Wooden Musical Wheel.
+
+### Composer's Corner
+
+Set up a cozy corner in your store dedicated to aspiring composers and songwriters, featuring the Wooden Musical Wheel as a vital creative tool. Offer a selection of high-quality instruments, songwriting journals, and music notation software to cater to customers' diverse composing needs. Create a welcoming atmosphere with inspiring quotes from famous composers and musicians on the walls. Encourage customers to test out the Wooden Musical Wheel and experience its potential for sparking new ideas and enhancing their compositions.
+
+### Musician's Toolkit Showcase
+
+Curate a display in your store that highlights the Wooden Musical Wheel as an essential part of every musician's toolkit. Surround the wheel with other useful music accessories, such as metronomes, tuners, capos, and instrument stands. Offer informative materials and demonstrations to show customers how the Wooden Musical Wheel can help them improve their skills and expand their musical knowledge. This comprehensive display will entice musicians of all levels to invest in the Wooden Musical Wheel and other practical accessories for their musical journey.
