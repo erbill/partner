@@ -114,11 +114,46 @@ Meta description is also can be shown when people share that URL on social media
 
 ## Eco-Packaging
 
-The Wooden Kaleidoscope by Bitti Gitti comes in a thoughtfully designed, eco-friendly package that showcases the brand's commitment to sustainability. Crafted from recycled paper, the cylindrical packaging not only minimizes environmental impact but also adds a unique and stylish touch. Its distinctive shape makes it perfect for gifting or display, while its earth-conscious design aligns with the values of environmentally-aware customers. Experience the magic of the Wooden Kaleidoscope while embracing sustainable choices with its eco-conscious packaging.
+The Wooden Kaleidoscope by Bitti Gitti comes in a thoughtfully designed, eco-friendly package that showcases the brand's commitment to sustainability. 
+
+Crafted from recycled paper, the cylindrical packaging not only minimizes environmental impact but also adds a unique and stylish touch. Its distinctive shape makes it perfect for gifting or display, while its earth-conscious design aligns with the values of environmentally-aware customers. 
+
+Experience the magic of the Wooden Kaleidoscope while embracing sustainable choices with its eco-conscious packaging.
 
 ![the wooden kaleidoscope](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5f4019ec88386f57a1edd602_Kaleidescope-44-p-800.jpeg)
 
-From creating remarkable images to adding a mindful boost to your day, there are many use-cases.
-Hoping you enjoy your Wooden Kaleidoscope as much as we love making it. 
+## Image and Videos
 
+![Kaleidoscope Photos](/Kaleys.jpg)
 
+You can find all the downloadable versions of the Wooden Kaleidoscope photos and 3D renders from our [Dropbox](https://www.dropbox.com/sh/4zcaicya5chij4x/AAAmJQC4NYnMc8eCSdp20Xzaa?dl=0). 
+
+## Emailing ideas
+
+Emailing is a great way to let your previous customers know about your recent upgrade in your collection. Here is one example content for you to further customize. You might also check our [Emailing Tips](/emailing) page for more tips.
+
+<CopyInfoBox>
+Subject: Introducing the Enchanting Wooden Kaleidoscope by Bitti Gitti - Now Available at [Your Boutique Store Name]!
+
+Dear [Customer's Name],
+
+We are thrilled to announce the arrival of the mesmerizing Wooden Kaleidoscope by Bitti Gitti at [Your Boutique Store Name]! This exquisitely handcrafted desk accessory is a perfect blend of beauty, functionality, and sustainability, making it an ideal addition to your workspace or as a unique gift for someone special.
+
+**Highlights of the Wooden Kaleidoscope:**
+- Dual-purpose design: A captivating kaleidoscope and practical pen holder
+- Handcrafted from sustainably sourced wood using advanced laser carving technology
+- Smartphone-compatible for capturing and sharing mesmerizing patterns
+- Silky-smooth flaxseed oil finish, adding to its charm
+- Comes in eco-friendly, cylindrical recycled paper packaging
+
+The Wooden Kaleidoscope is not only a visual delight but also an environmentally-conscious choice. Its eco-friendly packaging, made from recycled paper and fashioned into an elegant cylinder shape, speaks to the values of our boutique and customers who care about sustainability.
+
+Experience the magic of the Wooden Kaleidoscope by Bitti Gitti for yourself by visiting our store or shopping online at [Your Boutique Store's Website]. Don't miss out on the opportunity to add this enchanting, handcrafted piece to your collection or surprise a loved one with a truly unique and sustainable gift.
+
+Best Regards,
+
+[Your Name]
+Owner, [Your Boutique Store Name]
+[Contact Information]
+[Website URL]
+</CopyInfoBox>
