@@ -131,7 +131,7 @@ Set up a gifting station in your store that targets writers, professionals, and 
 <CopyInfoBox>
     <h2>Black Friday Special: Save on the Timeless Wooden Pen Holder! 🛍️</h2>
     
-<p>Don't miss our Black Friday special! Save on our Wooden Pen Holder, the perfect stylish and eco-friendly accessory for writers and professionals. Upgrade your workspace or give as a meaningful gift. Hurry, offer ends soon!</p>
+<p>Don't miss our Black Friday special! Save on our Wooden Pen Holder, the perfect stylish and eco-friendly accessory for writers and professionals. Upgrade your workspace or give as a meaningful gift. Hurry, offer ends soon!!</p>
 </CopyInfoBox>
 
 ### Christmas Day (December 25th)
