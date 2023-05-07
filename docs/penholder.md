@@ -139,5 +139,4 @@ Set up a gifting station in your store that targets writers, professionals, and 
     <h2>Wrap Up a Magical Gift with Our Wooden Pen Holder This Christmas! 🎄</h2>
     
 <p>Santa's got something special for the creative souls on your list this year - our exquisite Wooden Pen Holder! Handcrafted from premium materials, it's a heartfelt surprise for anyone who treasures style and organization. Shop now and spread holiday cheer!</p>
-
 </CopyInfoBox>
