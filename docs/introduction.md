@@ -10,6 +10,8 @@ At Bitti Gitti, we specialize in creating remarkable design objects that blend t
 
 * [the Wooden Kaleidoscope](/kaleidoscope)
 
+* [the Wooden Musical Wheel](/musicalwheel)
+
 Made of prime quality birchwood and coated with water-based varnish, our products are designed to last a lifetime. We also offer custom engravings and a range of colors to make your product truly unique.
 
 ## Corporate Creative DIY Events
