@@ -5,4 +5,4 @@ npm run docs:dev
 
 <CopyInfoBox></CopyInfoBox>
 
-this is a useful thing
+this is a easy copy box
