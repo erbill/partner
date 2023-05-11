@@ -20,4 +20,5 @@ is great to grab some amazing visuals.
 ![Images](/images1.jpg)
 
 ## Social Media
+
 Also for inspiration you can check out [Social Shares](https://shares.bitti-gitti.com)
