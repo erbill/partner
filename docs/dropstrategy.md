@@ -18,6 +18,8 @@ One successful Drop Strategy campaign we did was with Superstore Unfurl. Togethe
 
 Another way to implement the Drop strategy is by collaborating with local artists. We can offer customized Wooden Sound Systems on which they can paint their unique artwork. This creates a limited edition offer that will excite your customers while also promoting local talent.
 
+
 ## Conclusion
 
 Partnering with Bitti Gitti allows you to leverage our expertise in handcrafting design objects to create unique limited-time offers. Our Wooden Sound System is the perfect product for Drop Strategy Campaigns that support worthy causes, promote local talent, or simply excite your customers. Let's work together to create remarkable experiences that align with your brand identity and values.
+
