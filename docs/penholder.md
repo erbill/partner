@@ -2,7 +2,6 @@
 
 ![the wooden pen holder](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/60feb341083865d06bec002f_PaperHolder-3-p-800.jpeg)
 
-
 Sustainable and elegant way of keeping your favorite pen ready to use.
 
 Website:[the Wooden Pen Holder](https://www.bitti-gitti.com/wholesale/wooden-pen-holder)
@@ -50,7 +49,7 @@ In this section, we provide you with all the relevant information that you'll ne
     <p>Upgrade your desk and writing experience with the Wooden Pen Holder, a handcrafted accessory that effortlessly combines style and function. Made from premium birch wood, this holder keeps your pens horizontally positioned for peak performance without any leakage. The sustainable packaging makes it an ideal gift for eco-conscious friends and colleagues.</p>
   </CopyInfoBox>
 
-  ## Dimensions
+## Dimensions
 
   | Dimension | Inches | Centimeters |
 |-----------|--------|-------------|
