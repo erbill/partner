@@ -40,4 +40,4 @@ Both DIY edition and varnished the Wooden Sound Systems can be customized with l
 
 Corporate DIY events are an excellent way of encouraging innovation, creativity, and employee morale. They can also provide great bonding experiences for your team members. At Bitti Gitti, we are dedicated to delivering unique, functional design objects while fostering teamwork, innovation, and creativity.
 
-Get in touch today, and let's create something remarkable together!
+[Get in touch](mailto:hey@bitti-gitti.com) today, and let's create something remarkable together!
