@@ -89,7 +89,7 @@ export default {
         },
       ],
       footer: {
-        message: "www.bitti-gitti.com",
+        message: "Made with curiosity and love",
         copyright: "© 2023-Bitti Gitti",
       },
       markdown: {

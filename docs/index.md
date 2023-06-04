@@ -27,7 +27,7 @@ features:
   - icon: 🎶
     title: Musics to Play in your store
     details: Inspiring songs and our journey
-    link: "https://open.spotify.com/artist/6pHu6yn12MFevc5KOj3RZq?si=ORmmYi3ES2Csi74ovxD7qA"
+    link: /music.md
     linkText: Listen Now
   - icon: 🔥
     title: Custom trained Strategy-AI
