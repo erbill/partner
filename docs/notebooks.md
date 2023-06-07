@@ -30,7 +30,9 @@ The Coptic stitch method featured in the tutorials is universally respected for 
 * Access card for online tutorials
 </CopyInfoBox>
 
-Dimensions:6,9 in x 3,9 in x 1,8 in
+### Dimensions:
+
+6,9 in x 3,9 in x 1,8 in
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xXjgxOP-egg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
