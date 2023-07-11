@@ -9,6 +9,12 @@ Here is the main product page;
 [Wholesale order from FAIRE](https://www.faire.com/product/p_87g678sz4f)
 
 ![Flower Image](https://cdn.faire.com/fastly/2427c5e8837ce370630d7eea12386c30d949667b10c873311aeed0777b5e5dd2.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
+
+![Florist Blog](https://uploads-ssl.webflow.com/6202ac1b2e651ed862489cc3/64ac0764d57b0003e40ac74b_Florist-thumb.jpg)
+
+We share our tips and resources at [Florists Corner](https://www.bitti-gitti.com/category/florists-corner)
+
+
 ## When and How to Email
 
 Timing is crucial for email campaigns. Once you have a list of potential or existing customers, consider the following best practices:
