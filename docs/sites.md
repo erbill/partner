@@ -35,5 +35,3 @@ This is a really challenging task for us, but we're on it. To boost the pressure
 Let us know what you think! 
 
 [https://cross-gamma.vercel.app/](https://cross-gamma.vercel.app/)
-
-[https://cross-gamma.vercel.app/](https://cross-gamma.vercel.app/)
