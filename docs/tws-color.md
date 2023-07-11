@@ -18,7 +18,7 @@ All color bundle is the quickest way to start collecting data from your customer
 
 [Wholesale ready All Color Bundle on FAIRE](https://www.faire.com/product/p_8bd5bw5y6r)
 
-## Introducing Individual Solid Color TWS's
+### Solid Color TWS's
 
 Some come in All Color Bundle, some comes only on individual orders. Each tone of our color selection is made with love and curiosity. We love testing and micro improvements, this results in unique color tones which goes amazingly well with our beloved birchwood used in our TWS's. Hope you find your most loved one here as well;
 
@@ -98,4 +98,7 @@ Each marbled Wooden Sound System is one-of-a-kind, the perfect combination of pr
 
 ## Limited Editions 💎
 
+![Limited Edition TWS's](https://uploads-ssl.webflow.com/6202ac1b2e651ed862489cc3/6481cafb4bed24071490f302_DSCF0685.jpg)
+
 In case you are still looking for a bit more custom feel, we have [limited edition TWS](/tws-limited) for you.
+
