@@ -37,6 +37,8 @@ This hand-pulled, screen-printed notebook comes with hand-stitched, single spine
 
 PASSW*RD B**K isn't just a notebook; it's a path to peace of mind.
 
+![real life password book image](https://uploads-ssl.webflow.com/6202ac1b2e651ed862489cc3/6481c333df7f6c07a8a67536_PassBook-5.jpg)
+
 ### Security Tips
 Get exclusive tips on how to securely note down your passwords, keep them safe, and effectively manage them - contributing to a significant level of security and convenience.
 
