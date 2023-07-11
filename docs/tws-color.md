@@ -74,6 +74,8 @@ Fueled by an undying curiosity and a relentless pursuit for innovation, we have 
 
 Our founder, Erbil, harbors a fervent passion for [music](/music), rivaling his love for creation. One day, he found himself driven to repaint his electric guitar. This moment birthed the inaugural "swirl" technique in our workshop.
 
+![Swirl painted guitar](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5f1a9b1be780fabd6a965824_Swirl-84-768.jpg)
+
 Exhilarated by the spectacular outcome of the handiwork, Erbil, entranced, recreated the process for his second guitar's pickguard. The results were, once again, immaculate.
 
 Cognizant of the sentimental attachments tied to these cherished instruments, he practiced painstakingly on scrap wood before engaging in his actual creative exploits on the instruments.
