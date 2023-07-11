@@ -80,6 +80,7 @@ Cognizant of the sentimental attachments tied to these cherished instruments, he
 
 Once comfortable with the art of guitar dipping, Erbil incorporated this technique into his routine TWS paintings. It was only logical for him to marry these methods, giving rise to an extraordinary blend of skill and intuition. Thus, a unique, marble-like artwork on wooden sound systems was created - a testament to the unity of art and technology.
 
+
 ### Colored Swirl Edition
 ![Colored Marble Edition TWS Page](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5f1ae13f5b92b0f894a8d5ee_SwirlSet-Cover.jpg)
 
@@ -95,6 +96,6 @@ Each marbled Wooden Sound System is one-of-a-kind, the perfect combination of pr
 
 [Order Wholesale on FAIRE](https://www.faire.com/product/p_2vuk0nno5y)
 
-## Limited Editions
+## Limited Editions 💎
 
 In case you are still looking for a bit more custom feel, we have [limited edition TWS](/tws-limited) for you.
