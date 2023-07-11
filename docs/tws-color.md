@@ -15,3 +15,7 @@
 ### Colored Swirl Edition
 
 ### B&W Swirl Edition
+
+## Limited Editions
+
+In case you are still looking for a bit more custom feel, we have [limited edition TWS](/tws-limited) for you.
