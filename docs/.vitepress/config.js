@@ -50,6 +50,8 @@ export default {
           items: [
             { text: "the Wooden Sound System", link: "/tws" },
             { text: "3D Renders and Visuals", link: "/renders" },
+            { text: "Color alternatives", link: "/tws-color"},
+            { text: "Limited Editions", link: "/tws-limited"},
           ],
         },
         {
