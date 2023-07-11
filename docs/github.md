@@ -1,18 +1,16 @@
 # GitHub Commit Graph on the Wooden Sound Systems 🟢
 
-Flower and Pot Kit brings the joy of art and nature straight into your space. This wholesome kit, featuring a wooden flower and pot, comes with vibrant watercolor paints and a brush.
+![TWS Image](https://uploads-ssl.webflow.com/6202ac1b2e651ed862489cc3/649532ac3c43f45d2d32ff86_gthb-3.jpg)
 
 Here is the main product page;
 
-[Flower Kit Page](https://www.bitti-gitti.com/lovely/flower-kit)
+[Product Page](https://www.bitti-gitti.com/lovely/github-tws)
 
-[Wholesale order from FAIRE](https://www.faire.com/product/p_87g678sz4f)
 
-![Flower Image](https://cdn.faire.com/fastly/2427c5e8837ce370630d7eea12386c30d949667b10c873311aeed0777b5e5dd2.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
+![TWS image 2](https://uploads-ssl.webflow.com/6202ac1b2e651ed862489cc3/64a6f6b8755faad485101057_Erbils-AI--14.jpg)
 
-![Florist Blog](https://uploads-ssl.webflow.com/6202ac1b2e651ed862489cc3/64ac0764d57b0003e40ac74b_Florist-thumb.jpg)
 
-We share our tips and resources at [Florists Corner](https://www.bitti-gitti.com/category/florists-corner)
+We share our tips and resources at [Developer Friendly Blog](https://www.bitti-gitti.com/category/developer-friendly)
 
 
 ## Product Description
