@@ -9,17 +9,26 @@
 
 
 ### All Color Bundle
+
+All color bundle is the quickest way to start collecting data from your customerbase. As you implement these color options with addition to [Razor Black Edition TWS](https://www.faire.com/product/p_f2rou2pcru) you'll recognize a pattern of the best selling colors for your customer base. After that, we have amazing extra bundle kit's for you to further customize with laser engraving, marble editions or even making a limited edition series just for your store. Usually all starts with a little commitment to start testing with an All Color Bundle ✌️
+
 ![All Color Bundle TWS](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/61c0a70ce5680dbc9e4491d9_Colorfulk.jpg)
 
 [All Color the Wooden Sound System](https://www.bitti-gitti.com/wholesale/the-wooden-sound-system) includes the best selling 4 variants; Pink, Blue, Yellow and [Turquoise](https://www.faire.com/product/p_2yg7itc3). 
 
-[Wholesale ready on FAIRE](https://www.faire.com/product/p_8bd5bw5y6r)
+[Wholesale ready All Color Bundle on FAIRE](https://www.faire.com/product/p_8bd5bw5y6r)
 
 #### Pink the Wooden Sound System
 
 ![pink tws wholesale](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/61c0c8b4f854d87cd4e7ab5a_Pink-Pattern.jpg)
 
 [Pink TWS on FAIRE](https://faire.com/product/p_driwpxq5)
+
+#### Yellow the Wooden Sound System
+
+
+![Yellow TWS Image](https://cdn.faire.com/fastly/14208b4708b483238fb05b87eab296bb4957954e768428235c82b6fc79cf5d23.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
+[Yellow TWS on FAIRE](https://faire.com/product/p_861imnbw)
 
 ### Lavander Purple
 
