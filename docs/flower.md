@@ -1,4 +1,4 @@
-# DIY Flower and Pot KIT
+# DIY Flower and Pot KIT 🌸
 
 Flower and Pot Kit brings the joy of art and nature straight into your space. This wholesome kit, featuring a wooden flower and pot, comes with vibrant watercolor paints and a brush.
 
