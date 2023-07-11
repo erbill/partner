@@ -20,6 +20,12 @@
 
 ### Colored Swirl Edition
 ![Colored Marble Edition TWS Page](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5f1ae13f5b92b0f894a8d5ee_SwirlSet-Cover.jpg)
+
+Unique Patterns Each Time
+The marbling process is applied individually by hand.
+
+Each marbled Wooden Sound System is one-of-a-kind, the perfect combination of precision and spontaneity.
+
 [Colored Marble Edition TWS Page](https://www.bitti-gitti.com/marbled-sound-system-bundle)
 
 ### B&W Swirl Edition
