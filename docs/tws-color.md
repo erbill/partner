@@ -33,12 +33,26 @@ Some come in All Color Bundle, some comes only on individual orders. Each tone o
 Oh this is not an ordinary yellow, this is Yolk Yellow. A tint of orange brings the joy and creates a beautiful blend with the natural birchwood pattern unique to any TWS. 
 
 ![Yellow TWS Image](https://cdn.faire.com/fastly/14208b4708b483238fb05b87eab296bb4957954e768428235c82b6fc79cf5d23.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
+
 [Yellow TWS on FAIRE](https://faire.com/product/p_861imnbw)
+
+[Just click on Yellow to see amazing photos](https://tws-images.bitti-gitti.com/)
 
 ### Lavander Purple
 
 
 ### Mint Green
+
+The Mint Green Wooden Sound System amplifies your music to the max, without any electricity or cords.
+
+Crafted with durable birchwood and featuring a unique sound tunnel design, this passive amplifier boosts your smartphone's speaker volume by 25 decibels, providing a 4x volume boost.
+
+With its portable design and vibrant mint green color, this German Design Award-winning sound system is the perfect accessory for outdoor adventures, picnics, and more.
+
+[Wholesale ready on FAIRE](https://faire.com/product/p_hjrhq3zcj6)
+
+[TWS Mint Bitti Gitti Page](https://www.bitti-gitti.com/wholesale-product/tws-mint)
+
 
 ### Best Seller Razor Black
 
