@@ -10,7 +10,7 @@ At Bitti Gitti, we specialize in creating handcrafted design objects using our o
 
 * The Screen Printing Kit
 
-* The DIY Notebook Making Kit
+* The DIY Notebook Making Kit 
 
 
 ## Wooden Sound System DIY Kit
