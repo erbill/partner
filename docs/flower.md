@@ -21,26 +21,32 @@ We share our tips and resources at [Florists Corner](https://www.bitti-gitti.com
 
 <CopyInfoBox>
 <p>
-Flower and Pot Kit brings the joy of art and nature straight into your space. This wholesome kit, featuring a wooden flower and pot, comes with vibrant watercolor paints and a brush.
+Flower and Pot Kit brings the joy of art and nature straight into your space.
+
+This wholesome kit, featuring a wooden flower and pot, comes with vibrant watercolor paints and a brush.
 </p>
 </CopyInfoBox>
 
-### Features
+### Why is it great?
 
 <CopyInfoBox>
 <p>
-Subject: Discover the Magic of Our Wooden Sound System <br>
+Customizable Art: Paint-ready birch wood flower and pot allow for personal creativity and expression through art.
 
-Dear [Recipient's Name],
 
-Elevate your audio with our one-of-a-kind Wooden Sound System. Handcrafted with sustainable wood, this sound system produces unparalleled sound quality that brings your music to life.
+Designed by Expert: Carefully crafted by award-winning designer Erbil Sivaslioglu who ensures each piece intrigues the artistic spirit within you.
 
-Join us on a sonic journey and delight your senses while also reducing your environmental footprint.
 
-[Explore the Wooden Sound System →](#)
+All-in-one Package: Includes watercolor paint and brush in the kit to kickstart your artistic journey without any delays.
 
-Warm Regards,<br>
-[Your Name]
+
+Ideal for Gifting: Makes an excellent gift option. Create a personalized, painted gift that is unique, thoughtful and lasts for eternity.
+
+
+Great for Home Decor: The finished product adds a special artistic flair to any room, enhancing the overall aesthetic of your home.
+
+
+High-Quality Materials: Made from smooth birch wood, offering a superb painting experience and guaranteeing the durability of the final product.
 
 </p>
 </CopyInfoBox>
