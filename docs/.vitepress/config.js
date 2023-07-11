@@ -86,6 +86,7 @@ export default {
             { text: "the Wooden Kaleidoscope", link: "/kaleidoscope" },
             { text: "the Wooden Pen Holder", link: "/penholder" },
             { text: "DIY Flower and Pot KIT 🌸", link: "/flower" },
+            { text: "GitHub Graph on TWS 🟢", link: "/github" },
           ],
         },
       ],
