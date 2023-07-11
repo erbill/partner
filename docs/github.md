@@ -4,6 +4,8 @@
 
 Here is the main product page;
 
+[Get your Commit Graph on various objects](https://www.bitti-gitti.com/github-commits)
+
 [Product Page](https://www.bitti-gitti.com/lovely/github-tws)
 
 
@@ -12,6 +14,7 @@ Here is the main product page;
 
 We share our tips and resources at [Developer Friendly Blog](https://www.bitti-gitti.com/category/developer-friendly)
 
+If you want to try with your own commit graph, you can check out recent online tool for making your github contributions into a beautiful .SVG format. Check it out at ![https://github.bitti-gitti.com/](https://github.bitti-gitti.com/)
 
 ## Product Description
 
