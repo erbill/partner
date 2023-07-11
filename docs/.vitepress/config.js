@@ -74,6 +74,7 @@ export default {
             { text: "Blog", link: "https://blog.bitti-gitti.com" },
             { text: "Social Shares", link: "https://shares.bitti-gitti.com" },
             { text: "Strategy AI", link: "https://twsbot.bitti-gitti.com" },
+            { text: "FREE Web Apps", link: "/sites"},
           ],
         },
 
