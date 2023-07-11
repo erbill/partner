@@ -30,6 +30,7 @@ Some come in All Color Bundle, some comes only on individual orders. Each tone o
 
 #### Yellow the Wooden Sound System
 
+Oh this is not an ordinary yellow, this is Yolk Yellow. A tint of orange brings the joy and creates a beautiful blend with the natural birchwood pattern unique to any TWS. 
 
 ![Yellow TWS Image](https://cdn.faire.com/fastly/14208b4708b483238fb05b87eab296bb4957954e768428235c82b6fc79cf5d23.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
 [Yellow TWS on FAIRE](https://faire.com/product/p_861imnbw)
