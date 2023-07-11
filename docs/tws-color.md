@@ -34,8 +34,10 @@ Oh this is not an ordinary yellow, this is Yolk Yellow. A tint of orange brings 
 
 ![Yellow TWS Image](https://cdn.faire.com/fastly/14208b4708b483238fb05b87eab296bb4957954e768428235c82b6fc79cf5d23.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
 
+Wholesale orders:
 [Yellow TWS on FAIRE](https://faire.com/product/p_861imnbw)
 
+Yellow TWS Image Library:
 [Just click on Yellow to see amazing photos](https://tws-images.bitti-gitti.com/)
 
 ### Lavander Purple
@@ -51,22 +53,22 @@ Crafted with durable birchwood and featuring a unique sound tunnel design, this 
 
 With its portable design and vibrant mint green color, this German Design Award-winning sound system is the perfect accessory for outdoor adventures, picnics, and more.
 
-[Wholesale ready on FAIRE](https://faire.com/product/p_hjrhq3zcj6)
+Wholesale orders: [Wholesale ready on FAIRE](https://faire.com/product/p_hjrhq3zcj6)
 
-[TWS Mint Bitti Gitti Page](https://www.bitti-gitti.com/wholesale-product/tws-mint)
+Mint Green Bitti Gitti Page: [TWS Mint Bitti Gitti Page](https://www.bitti-gitti.com/wholesale-product/tws-mint)
 
-[Just click on Mint Green to see amazing photos](https://tws-images.bitti-gitti.com/)
+Mint Green TWS Image Library: [Just click on Mint Green to see amazing photos](https://tws-images.bitti-gitti.com/)
 
 
 ### Best Seller Razor Black
 
 ![Razor Black TWS](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/605ca16bb2ba799cd46fe024_try2.png)
 
-[Just click on Razor Black to see amazing photos](https://tws-images.bitti-gitti.com/)
+Mint Green TWS Image Library: [Just click on Razor Black to see amazing photos](https://tws-images.bitti-gitti.com/)
 
 #### the Best Selling TWS Bundle
 
-[Razor Black Bundle](https://faire.com/product/p_f2rou2pcru) is our best selling bundle for more than 250 boutique stores. 
+Wholesale orders: [Razor Black Bundle](https://faire.com/product/p_f2rou2pcru) is our best selling bundle for more than 250 boutique stores. 
 
 ## Multi Colored TWS's
 
@@ -91,12 +93,12 @@ The marbling process is applied individually by hand.
 
 Each marbled Wooden Sound System is one-of-a-kind, the perfect combination of precision and spontaneity.
 
-[Colored Marble Edition TWS Page](https://www.bitti-gitti.com/marbled-sound-system-bundle)
+Bitti Gitti Swirled TWS Page: [Colored Marble Edition TWS Page](https://www.bitti-gitti.com/marbled-sound-system-bundle)
 
 ### B&W Swirl Edition
 ![B&W Marble Edition TWS](https://cdn.faire.com/fastly/3dec02d2e37c0a939d94476cf97ce2dfa4c6dc0bbfea33cee778df6bb6529dd2.jpeg?dpr=1&format=jpg&height=718.16&width=718.16)
 
-[Order Wholesale on FAIRE](https://www.faire.com/product/p_2vuk0nno5y)
+Wholesale orders: [Order Wholesale on FAIRE](https://www.faire.com/product/p_2vuk0nno5y)
 
 ## Limited Editions 💎
 
