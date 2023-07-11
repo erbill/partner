@@ -66,6 +66,16 @@ With its portable design and vibrant mint green color, this German Design Award-
 
 ## Multi Colored TWS's
 
+Fueled by an undying curiosity and a relentless pursuit for innovation, we have continuously striven for excellence in our creations. This led us to the birth of the distinctive marble/swirl edition of True Wireless Stereo (TWS) speakers.
+
+Our founder, Erbil, harbors a fervent passion for [music](/music), rivaling his love for creation. One day, he found himself driven to repaint his electric guitar. This moment birthed the inaugural "swirl" technique in our workshop.
+
+Exhilarated by the spectacular outcome of the handiwork, Erbil, entranced, recreated the process for his second guitar's pickguard. The results were, once again, immaculate.
+
+Cognizant of the sentimental attachments tied to these cherished instruments, he practiced painstakingly on scrap wood before engaging in his actual creative exploits on the instruments.
+
+Once comfortable with the art of guitar dipping, Erbil incorporated this technique into his routine TWS paintings. It was only logical for him to marry these methods, giving rise to an extraordinary blend of skill and intuition. Thus, a unique, marble-like artwork on wooden sound systems was created - a testament to the unity of art and technology.
+
 ### Colored Swirl Edition
 ![Colored Marble Edition TWS Page](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5f1ae13f5b92b0f894a8d5ee_SwirlSet-Cover.jpg)
 
