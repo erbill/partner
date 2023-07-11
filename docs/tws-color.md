@@ -43,6 +43,8 @@ Oh this is not an ordinary yellow, this is Yolk Yellow. A tint of orange brings 
 
 ### Mint Green
 
+![TWS Mint Photo](https://cdn.faire.com/fastly/6135272385958f696a1fa4321b545a4affaf03cb96f804c582d3319d97950585.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
+
 The Mint Green Wooden Sound System amplifies your music to the max, without any electricity or cords.
 
 Crafted with durable birchwood and featuring a unique sound tunnel design, this passive amplifier boosts your smartphone's speaker volume by 25 decibels, providing a 4x volume boost.
@@ -53,10 +55,14 @@ With its portable design and vibrant mint green color, this German Design Award-
 
 [TWS Mint Bitti Gitti Page](https://www.bitti-gitti.com/wholesale-product/tws-mint)
 
+[Just click on Mint Green to see amazing photos](https://tws-images.bitti-gitti.com/)
+
 
 ### Best Seller Razor Black
 
 ![Razor Black TWS](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/605ca16bb2ba799cd46fe024_try2.png)
+
+[Just click on Razor Black to see amazing photos](https://tws-images.bitti-gitti.com/)
 
 ## Multi Colored TWS's
 
