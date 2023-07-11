@@ -1,14 +1,20 @@
 # Color Alternatives for TWS
 
-[the Wooden Sound System](/tws) comes
+[the Wooden Sound System](/tws) comes in various color alternatives. Each one has carefully picked considering the hue of the birchwood and a thin layer of water based varnish we apply on top of it. From one color to marble editions we're always experimenting for finding lovely expressions for various feelings. Hope you'll find your's here.
 
 ## One Color TWS's
+
+[One color TWS](https://www.bitti-gitti.com/wholesale/sound-system) is the award winning edition. By having a solid color only at the carved in spaces creates an illusion of the whole birchwood has a colored inside. 
 
 ### All Color Bundle
 
 ### Lavander Purple
 
 ### Mint Green
+
+### Best Seller Razor Black
+
+![Razor Black TWS](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/605ca16bb2ba799cd46fe024_try2.png)
 
 ## Multi Colored TWS's
 
