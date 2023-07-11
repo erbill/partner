@@ -9,7 +9,7 @@ Tactile way of keeping track of ever-growing and updating passwords.
 
 ## Why it is great?
 
-PassBook is an amazing way of keeping track of ever-growing and updating passwords.
+PASSW*RD B**K is an amazing way of keeping track of ever-growing and updating passwords.
 
 Comes with tips on;
 
@@ -24,3 +24,29 @@ Features:
 * Rounded cornered, FSC-approved paper.
 
 Password Book is an amazing way to stay organized and secure.
+
+## E-mailing Ideas
+
+### Introducing PASSW*RD B**K: Your Tactile Solution for Secure Password Management
+
+Are you overwhelmed trying to memorize a multitude of passwords or anxious about putting them all in one place? No more need for worries or sticky notes! Bitti Gitti Design Studio has meticulously crafted a solution for your password conundrums - the PASSW*RD B**K.
+
+This hand-pulled, screen-printed notebook comes with hand-stitched, single spine binding and rounded corners, making it much more than just a place to jot down your passwords. With locally-sourced advice on highest security practices, jotting down your passwords has never been more secure and easily manageable.
+
+#### Why Choose PASSW*RD B**K?
+
+PASSW*RD B**K isn't just a notebook; it's a path to peace of mind.
+
+### Security Tips
+Get exclusive tips on how to securely note down your passwords, keep them safe, and effectively manage them - contributing to a significant level of security and convenience.
+
+### Features:
+Three-in-One Notebook: Get three notebooks in one package for handy and authoritative organization.
+
+Hand-Pulled & Screen-Printed Cover: The beautifully-crafted, hand-pulled screen-printed cover adds a touch of class and creativity.
+
+Rounded Corners & FSC-approved Paper: No more dog-eared pages or unnecessary damage. The FSC-approved, rounded cornered paper ensures durability and environmental responsibility.
+
+### Perfect Gift:
+
+PASSW*RD B**K makes for an excellent gift too - because who doesn't love a unique, useful, and beautiful present?

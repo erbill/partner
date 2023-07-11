@@ -87,7 +87,7 @@ export default {
             { text: "the Wooden Pen Holder", link: "/penholder" },
             { text: "DIY Flower and Pot KIT 🌸", link: "/flower" },
             { text: "GitHub Graph on TWS 🟢", link: "/github" },
-            { text: "PassBook 🔑", link: "/passbook" },
+            { text: "Password Book 🔑", link: "/passbook" },
           ],
         },
       ],
