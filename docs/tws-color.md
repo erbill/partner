@@ -18,6 +18,10 @@ All color bundle is the quickest way to start collecting data from your customer
 
 [Wholesale ready All Color Bundle on FAIRE](https://www.faire.com/product/p_8bd5bw5y6r)
 
+## Introducing Individual Solid Color TWS's
+
+Some come in All Color Bundle, some comes only on individual orders. Each tone of our color selection is made with love and curiosity. We love testing and micro improvements, this results in unique color tones which goes amazingly well with our beloved birchwood used in our TWS's. Hope you find your most loved one here as well;
+
 #### Pink the Wooden Sound System
 
 ![pink tws wholesale](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/61c0c8b4f854d87cd4e7ab5a_Pink-Pattern.jpg)
