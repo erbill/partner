@@ -1,6 +1,10 @@
 # Color Alternatives for TWS
 
-[the Wooden Sound System](/tws) comes in various color alternatives. Each one has carefully picked considering the hue of the birchwood and a thin layer of water based varnish we apply on top of it. From one color to marble editions we're always experimenting for finding lovely expressions for various feelings. Hope you'll find your's here.
+Award winning [the Wooden Sound System](/tws) comes in various color alternatives. 
+
+Each one has carefully picked considering the hue of the birchwood and a thin layer of water based varnish we apply on top of it. From one color to marble editions we're always experimenting for finding lovely expressions for various feelings. 
+
+Hope you'll find your's here.
 
 ## One Color TWS's
 
@@ -40,7 +44,7 @@ Wholesale orders:
 Yellow TWS Image Library:
 [Just click on Yellow to see amazing photos](https://tws-images.bitti-gitti.com/)
 
-### Lavander Purple
+<!-- ### Lavander Purple -->
 
 
 ### Mint Green
