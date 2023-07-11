@@ -19,6 +19,8 @@
 ## Multi Colored TWS's
 
 ### Colored Swirl Edition
+![Colored Marble Edition TWS Page](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5f1ae13f5b92b0f894a8d5ee_SwirlSet-Cover.jpg)
+[Colored Marble Edition TWS Page](https://www.bitti-gitti.com/marbled-sound-system-bundle)
 
 ### B&W Swirl Edition
 
