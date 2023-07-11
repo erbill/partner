@@ -14,7 +14,7 @@ Here is the main product page;
 
 We share our tips and resources at [Developer Friendly Blog](https://www.bitti-gitti.com/category/developer-friendly)
 
-If you want to try with your own commit graph, you can check out recent online tool for making your github contributions into a beautiful .SVG format. Check it out at ![https://github.bitti-gitti.com/](https://github.bitti-gitti.com/)
+If you want to try with your own commit graph, you can check out recent online tool for making your github contributions into a beautiful .SVG format. Check it out at [https://github.bitti-gitti.com/](https://github.bitti-gitti.com/)
 
 ## Product Description
 
