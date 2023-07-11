@@ -64,6 +64,10 @@ With its portable design and vibrant mint green color, this German Design Award-
 
 [Just click on Razor Black to see amazing photos](https://tws-images.bitti-gitti.com/)
 
+#### the Best Selling TWS Bundle
+
+[Razor Black Bundle](https://faire.com/product/p_f2rou2pcru) is our best selling bundle for more than 250 boutique stores. 
+
 ## Multi Colored TWS's
 
 Fueled by an undying curiosity and a relentless pursuit for innovation, we have continuously striven for excellence in our creations. This led us to the birth of the distinctive marble/swirl edition of True Wireless Stereo (TWS) speakers.

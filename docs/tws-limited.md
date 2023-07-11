@@ -21,3 +21,7 @@ This is a highly inspirational project which showchase how further we can push c
 
 [Github Page](/github)
 
+[Product Page](https://www.bitti-gitti.com/lovely/github-tws)
+
+[Developer Friendly Blog](https://www.bitti-gitti.com/category/developer-friendly)
+
