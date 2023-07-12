@@ -8,9 +8,9 @@ Eco-friendly materials and world class tutorials in a simple yet empowering DIY 
 
 Bookbinding is an amazing skill to have. With Bitti Gitti's Wooden Notebook Kit, it takes about 15 minutes to successfully complete a notebook with the pre-eminent Coptic method.
 
-Website:[the Wooden Notebook Making Kit](https://www.bitti-gitti.com/wholesale/the-wooden-notebook-kit)
+Website: [the Wooden Notebook Making Kit](https://www.bitti-gitti.com/wholesale/the-wooden-notebook-kit)
 
-Wholesale:[Order on FAIRE](https://www.faire.com/product/p_9za38vcjbo)
+Wholesale: [Order on FAIRE](https://www.faire.com/product/p_9za38vcjbo)
 
 ## Description
 

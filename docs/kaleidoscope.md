@@ -9,9 +9,9 @@ But that's not all – the Wooden Kaleidoscope also doubles as a stylish pen hol
 
 Down below you can access our comprehensive content, which provides all the necessary information and resources to start sharing the Wooden Kaleidoscope with your clientele today. Hope our guide will help you for a quicker start.
 
-Website:[the Wooden Kaleidoscope](https://www.bitti-gitti.com/wholesale/kaleidoscope)
+Website: [the Wooden Kaleidoscope](https://www.bitti-gitti.com/wholesale/kaleidoscope)
 
-Wholesale:[Order on FAIRE](https://www.faire.com/product/p_ez68nx8wmw)
+Wholesale: [Order on FAIRE](https://www.faire.com/product/p_ez68nx8wmw)
 
 ## Setting up for Online Store
 
