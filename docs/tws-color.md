@@ -58,6 +58,15 @@ Blue TWS Image Library:
 
 ### Lavander Purple
 
+Unique, bright but still natural tone of purple.
+
+![Purple TWS image](https://cdn.faire.com/res/hszgttpjt/image/upload/74ff76ed41cea4a4785e68650555f58e25484952428c5697a23bbfe96df7751e/1537198411.jpg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=350&width=350)
+
+Wholesale Orders:
+[Lavander TWS on FAIRE](https://www.faire.com/product/p_17gdn74q)
+
+Lavander TWS Image Library:
+[Just click on Purple to see amazing photos](https://tws-images.bitti-gitti.com/)
 
 ### Mint Green
 
