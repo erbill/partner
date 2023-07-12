@@ -140,10 +140,4 @@ Wholesale orders: [Order Wholesale on FAIRE](https://www.faire.com/product/p_2vu
 
 In case you are still looking for a bit more custom feel, we have [limited edition TWS](/tws-limited) for you.
 
-## No Limits
 
-![sample tws laser](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5ff214f69f2331274db4d563_Lazer-wide.jpg)
-
-We have partnered with amazing small businesses to make unique color combination and laser engraving the Wooden Sound Systems to generate awareness and boost engagement for various occasions. 
-
-Fund raising for donations is also one aspect we love to contribute. One of our super stores, Unfurl, requested an ocean themed swirl edition TWS to sell in an auction for donating their chosen ocean cleaning foundation. 
