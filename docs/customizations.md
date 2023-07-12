@@ -53,3 +53,13 @@ Partnering with Bitti Gitti for your customized Wooden Sound System can deliver 
 You can check out our simple browser based tool for visualizing your desired logo on the Wooden Sound System. If you have your design file .SVG format, you can start visualizing with [Laser Engrave Visualizer](https://tws-customization.bitti-gitti.com/) .
 
 When you're happy with your design please send it to [hey@bitti-gitti.com](mailto:hey@bitti-gitti.com) to turn it into a reality.
+
+## Customizing other Bitti Gitti products
+
+We love making functional design objects mainly with wood. Laser engraving can be applied on almost every product of ours. But here are some most requested ones.
+
+### Wooden Kaleidoscope
+
+![lazer kaleidoscope](https://shop.bittigitti.com.tr/cdn/shop/products/Kaleidoscope-3_1024x1024.jpg?v=1593701480)
+
+This amazing see-through [kaleidoscope](/kaleidoscope) is made out of a solid birchwood and laser cut with precision to have rounded corners. It can be used as a pen holder on daily basis. That's why laser engraving a logo or a name usually makes daily reminder of how amazing gift it is. 

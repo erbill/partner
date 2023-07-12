@@ -11,6 +11,8 @@ Down below you can access our comprehensive content, which provides all the nece
 
 Website:[the Wooden Kaleidoscope](https://www.bitti-gitti.com/wholesale/kaleidoscope)
 
+Wholesale on FAIRE:[Order on FAIRE](https://www.faire.com/product/p_ez68nx8wmw)
+
 ## Setting up for Online Store
 
 In this section, we provide you with all the relevant information that you'll need to create a high-converting product listing for the Wooden Kaleidoscope in your online store. By setting up your product listing using the provided title, descriptions, meta text, keywords, related categories, and images, you will improve your store's SEO, marketing efforts, and sell-through rates.
