@@ -52,3 +52,5 @@ We love making small, simple but functional web apps, you can check some of them
 ## Let's begin our journey
 
 We're constantly updating this guide, please let us know what you think and how you're utilizing these pages for us to make them even better. 
+
+[Next Chapter: Online Store Setup](/getting-started)
