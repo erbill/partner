@@ -16,9 +16,11 @@ At Bitti Gitti, we specialize in creating remarkable design objects that blend t
 
 * [the Wooden Musical Wheel](/musicalwheel)
 
-Made of prime quality birchwood and coated with water-based varnish, our products are designed to last a lifetime. We also offer custom engravings and a range of colors to make your product truly unique.
+* [the Wooden Flower and Pot Kit](/flower)
 
-## Corporate Creative DIY Events
+Made of prime quality birchwood and coated with water-based varnish, our products are designed to last a lifetime. We also offer [custom engravings](/customizations) and a range of colors to make your product truly unique.
+
+## Creative DIY Events
 
 ![Corporate Events](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5e179ba382584be3f87f21e2_Notebook-Event-mid-p-1080.jpeg)
 
@@ -35,13 +37,17 @@ We also offer [custom logo engravings](/customizations) on our products, giving 
 
 ![Images](/SS.jpg)
 
-Setting up an online store can be challenging, but Bitti Gitti is here to help. We offer a range of services, including e-commerce website setup, product photography, and social media management. Utilizing our AI of Bitti Gitti, together we can design the strategy that positions the Wooden Sound System to your customer base optimally.
+We have compiled best practices for our [the Wooden Sound System](/tws) e-commerce page scenarios. From various product titles to meta descriptions, long-medium-short versions of product description and quite more. 
 
 You can find all the quick start materials from our [Setting up your Online Store](/getting-started) page.
 
+We cover e-mail campaign ideas to sharing transparent TWS photos for you to create even more unique marketing visuals as you need. 
+
 ## Social Shares
 
-You can also check out other Super Store's custom social media content created with the Wooden Sound System for inspiration by visiting [shares.bitti-gitti.com](https://shares.bitti-gitti.com)
+You can also check out other Super Store's custom social media content created with the Wooden Sound System for inspiration by visiting [shares.bitti-gitti.com](https://shares.bitti-gitti.com) If you share your experience with our products, please tag us so that we can include you in our lovely page.
+
+We love making small, simple but functional web apps, you can check some of them from [Free WebApps page](/sites)
 
 ## Let's begin our journey
 
