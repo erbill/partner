@@ -10,6 +10,8 @@ Bookbinding is an amazing skill to have. With Bitti Gitti's Wooden Notebook Kit,
 
 Website:[the Wooden Notebook Making Kit](https://www.bitti-gitti.com/wholesale/the-wooden-notebook-kit)
 
+Wholesale:[Order on FAIRE](https://www.faire.com/product/p_9za38vcjbo)
+
 ## Description
 
 <CopyInfoBox>
