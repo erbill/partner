@@ -1,6 +1,10 @@
 # Welcome to Bitti Gitti - Your Partner for Remarkable Design Objects
 
-Are you looking for a partner that can help you deliver unique and functional design objects that reflect your brand's identity and values? Look no further than Bitti Gitti!
+Whether you're a valued store owner or a potential partner exploring our website, we're thrilled to have you here at Bitti Gitti. It's likely that you've already experienced the unique beauty of our FlowCrafted collection, and we want to ensure you have the necessary resources to maximize its potential for your customer base.
+
+This comprehensive and regularly updated documentation page is designed to assist you in various aspects of working with our products. From setting up captivating product pages to deploying effective email campaigns and generating innovative marketing scenarios, our goal is to provide guidance throughout your journey with us.
+
+Feel free to browse these resources to unlock the full potential of our remarkable design objects and create exceptional experiences for your customers. We're excited to collaborate with you and support your success every step of the way.
 
 At Bitti Gitti, we specialize in creating remarkable design objects that blend traditional woodworking with cutting-edge technology and tools. Our product range includes:
 
