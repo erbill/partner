@@ -72,7 +72,7 @@ Lavander TWS Image Library:
 
 ![TWS Mint Photo](https://cdn.faire.com/fastly/6135272385958f696a1fa4321b545a4affaf03cb96f804c582d3319d97950585.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=730&width=730)
 
-The Mint Green Wooden Sound System amplifies your music to the max, without any electricity or cords.
+The Mint Green Wooden Sound System amplifies your music to the max, without any electricity or cords. Also this specific color version has won [the best home decor award](https://www.bitti-gitti.com/news/best-of-green-awards-2021) by TreeHugger.
 
 Crafted with durable birchwood and featuring a unique sound tunnel design, this passive amplifier boosts your smartphone's speaker volume by 25 decibels, providing a 4x volume boost.
 
@@ -126,7 +126,11 @@ Wholesale: [Order on FAIRE](https://www.faire.com/product/p_5gxyghqhi0)
 ### B&W Swirl Edition
 ![B&W Marble Edition TWS](https://cdn.faire.com/fastly/3dec02d2e37c0a939d94476cf97ce2dfa4c6dc0bbfea33cee778df6bb6529dd2.jpeg?dpr=1&format=jpg&height=718.16&width=718.16)
 
-This is a really unique combination of white, gray and black tones resulting in unique results each time.
+B&W Marble series is a combination of 2 of the best selling the Wooden Sound Systems.
+
+Razor Black meets with 3 tone marbling process, resulting in unique patterns each time. German Design Award-winning the Wooden Sound Systems are suitable for all smartphones and provides 25dB increase volume on average.
+
+B&W Marble Edition TWS page: [B&W Marble Edition on Bitti-Gitti](https://www.bitti-gitti.com/wholesale/black-marbled-sound-system)
 
 Wholesale orders: [Order Wholesale on FAIRE](https://www.faire.com/product/p_2vuk0nno5y)
 
