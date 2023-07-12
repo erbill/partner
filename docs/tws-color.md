@@ -89,7 +89,7 @@ Mint Green TWS Image Library: [Just click on Mint Green to see amazing photos](h
 
 ![Razor Black TWS](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/605ca16bb2ba799cd46fe024_try2.png)
 
-Mint Green TWS Image Library: [Just click on Razor Black to see amazing photos](https://tws-images.bitti-gitti.com/)
+Razor Black TWS Image Library: [Just click on Razor Black to see amazing photos](https://tws-images.bitti-gitti.com/)
 
 ## the Best Selling TWS Bundle
 
