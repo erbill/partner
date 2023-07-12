@@ -8,6 +8,8 @@ Website : [the Wooden Musical Wheel](https://www.bitti-gitti.com/wholesale/the-w
 
 Online Experience : [See it in Action](https://www.bitti-gitti.com/themusicalwheel)
 
+Wholesale: [Order on FAIRE](https://www.faire.com/product/p_2s2n9a0ufj)
+
 ## Product Description
 <CopyInfoBox>
   <p>The Wooden Musical Wheel is a perfect tool for musicians and composers from all experience levels.</p>
