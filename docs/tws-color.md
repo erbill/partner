@@ -91,7 +91,7 @@ Mint Green TWS Image Library: [Just click on Mint Green to see amazing photos](h
 
 Mint Green TWS Image Library: [Just click on Razor Black to see amazing photos](https://tws-images.bitti-gitti.com/)
 
-#### the Best Selling TWS Bundle
+## the Best Selling TWS Bundle
 
 Wholesale orders: [Razor Black Bundle](https://faire.com/product/p_f2rou2pcru) is our best selling bundle for more than 250 boutique stores. 
 
@@ -120,8 +120,13 @@ Each marbled Wooden Sound System is one-of-a-kind, the perfect combination of pr
 
 Bitti Gitti Swirled TWS Page: [Colored Marble Edition TWS Page](https://www.bitti-gitti.com/marbled-sound-system-bundle)
 
+Wholesale: [Order on FAIRE](https://www.faire.com/product/p_5gxyghqhi0)
+
+
 ### B&W Swirl Edition
 ![B&W Marble Edition TWS](https://cdn.faire.com/fastly/3dec02d2e37c0a939d94476cf97ce2dfa4c6dc0bbfea33cee778df6bb6529dd2.jpeg?dpr=1&format=jpg&height=718.16&width=718.16)
+
+This is a really unique combination of white, gray and black tones resulting in unique results each time.
 
 Wholesale orders: [Order Wholesale on FAIRE](https://www.faire.com/product/p_2vuk0nno5y)
 
