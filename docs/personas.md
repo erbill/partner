@@ -26,7 +26,7 @@ You can start generating ideas by visiting [twsbot.bitti-gitti.com](https://twsb
 
 ### B2B Sales
 
-As a boutique store owner you have an amazing potential for reaching out local startups and big corporations for presenting hand-crafted functional design objects that you already sell but with some custom color and laser engraving options you can even make it very attractive for those businesses. 
+As a boutique store owner, you possess incredible potential for connecting with both local startups and big corporations by showcasing your range of hand-crafted functional design objects. By offering custom color choices and laser engraving options, you can transform these products into highly appealing options for businesses, making them even more enticing to potential buyers.
 
 We love to make your custom requirements match with min orders starting from as low as 7 units on each order. 
 
@@ -41,3 +41,5 @@ You can use your most powerful choice of contact;
 * Using your network for asking recommendations or introductions. In the end you're pitching an award-winning and already good selling product with a highly customized way. You can even gift one unit to your friends if they suggest a lead. 
 
 Of course there are hundreds of other ways of achieving similar results. These are just some quick thought provoking examples to generate more action in a shorter time.
+
+You can read more about [B2B Events here](/b2b-events)
