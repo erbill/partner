@@ -44,7 +44,19 @@ Wholesale orders:
 Yellow TWS Image Library:
 [Just click on Yellow to see amazing photos](https://tws-images.bitti-gitti.com/)
 
-<!-- ### Lavander Purple -->
+#### Blue the Wooden Sound System
+
+Inspired from our B2B sales most wanted color, bright calming blue tone.
+
+![Blue TWS image](https://cdn.faire.com/res/hszgttpjt/image/upload/0b6f52bc95dcc2fc9df7c577f92c0342b718d065081accf08f545069e0d99404/1537198346.jpg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=350&width=350)
+
+Wholesale Orders:
+[Blue TWS on FAIRE](https://www.faire.com/product/p_1l4bni8i)
+
+Blue TWS Image Library:
+[Just click on Blue to see amazing photos](https://tws-images.bitti-gitti.com/)
+
+### Lavander Purple
 
 
 ### Mint Green
