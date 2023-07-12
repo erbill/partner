@@ -24,6 +24,20 @@ At Bitti Gitti, we have developed a custom-trained ChatGPT model with over 8,900
 
 You can start generating ideas by visiting [twsbot.bitti-gitti.com](https://twsbot.bitti-gitti.com/)
 
-## Conclusion
+### B2B Sales
 
-Persona-Specific Marketing Strategy is a powerful tool for any store looking to personalize their brand story, target their customer base, and promote their unique value proposition effectively. With the versatile Wooden Sound System, Bitti Gitti can help guide you in creating exclusive marketing strategies to suit your customers' needs. Start utilizing our TWSBOT to personalize your marketing strategies today!
+As a boutique store owner you have an amazing potential for reaching out local startups and big corporations for presenting hand-crafted functional design objects that you already sell but with some custom color and laser engraving options you can even make it very attractive for those businesses. 
+
+We love to make your custom requirements match with min orders starting from as low as 7 units on each order. 
+
+#### How to pitch to your local businesses for corporate gift/swag supply
+
+You can use your most powerful choice of contact;
+
+* Social media is a great way to slide in DM's of a specific person, this can be Twitter, IG or even LinkedIn. 
+
+* Cold e-mail but with a bit of [customization](/customizations) and to the point story telling can make a huge leaps possible.
+
+* Using your network for asking recommendations or introductions. In the end you're pitching an award-winning and already good selling product with a highly customized way. You can even gift one unit to your friends if they suggest a lead. 
+
+Of course there are hundreds of other ways of achieving similar results. These are just some quick thought provoking examples to generate more action in a shorter time.
