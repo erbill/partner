@@ -4,9 +4,9 @@
 
 From practicing scales in all 12 keys, to constructing 7th,9th and 13th chords, this tool is great for both beginner and intermediate level musicians.
 
-Website : [the Wooden Musical Wheel](https://www.bitti-gitti.com/wholesale/the-wooden-musical-wheel)
+Website: [the Wooden Musical Wheel](https://www.bitti-gitti.com/wholesale/the-wooden-musical-wheel)
 
-Online Experience : [See it in Action](https://www.bitti-gitti.com/themusicalwheel)
+Online Experience: [See it in Action](https://www.bitti-gitti.com/themusicalwheel)
 
 Wholesale: [Order on FAIRE](https://www.faire.com/product/p_2s2n9a0ufj)
 
