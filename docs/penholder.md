@@ -4,7 +4,9 @@
 
 Sustainable and elegant way of keeping your favorite pen ready to use.
 
-Website:[the Wooden Pen Holder](https://www.bitti-gitti.com/wholesale/wooden-pen-holder)
+Website: [the Wooden Pen Holder](https://www.bitti-gitti.com/wholesale/wooden-pen-holder)
+
+Wholesale: [Order on FAIRE](https://www.faire.com/product/p_tf5jr8erh6)
 
 ## Setting up for Online Store
 
