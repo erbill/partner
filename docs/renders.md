@@ -14,7 +14,7 @@ By using 3D renders, we were able to showcase the Wooden Sound System's unique d
 
 ## Performance Test Videos
 
-Another aspect of visuals that we leveraged was performance test videos. We created performance test videos that showcased the Wooden Sound System's audio quality in different environments - both indoors and outdoors. By demonstrating the audio quality of the product in real-life settings, we were able to reassure customers that the Wooden Sound System was a worthy investment, not just a beautiful piece of art.
+Another aspect of visuals that we leveraged was [performance test videos](https://www.bitti-gitti.com/tws/performance). We created performance test videos that showcased the Wooden Sound System's audio quality in different environments - both indoors and outdoors. By demonstrating the audio quality of the product in real-life settings, we were able to reassure customers that the Wooden Sound System was a worthy investment, not just a beautiful piece of art.
 
 <iframe src="https://player.vimeo.com/video/542798730?h=816a8526c6" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/542798730">the Wooden Sound System - Volume level test</a> from <a href="https://vimeo.com/bitti">Bitti Gitti</a> </p>

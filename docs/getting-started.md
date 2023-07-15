@@ -106,6 +106,10 @@ You can use the buttons at the top of the page to quickly filter the Wooden Soun
 | Height    | 3.9 in | 10 cm       |
 | Weight    | 1.10 lb| 500 gr      |
 
+## Performance Test Videos
+
+You can find detailed volume boost comparison video and raw data from [performance page](https://www.bitti-gitti.com/tws/performance)
+
 ## Additional Details
 To make your product listing as informative as possible, consider including the following details about the Wooden Sound System:
 
