@@ -108,7 +108,10 @@ You can use the buttons at the top of the page to quickly filter the Wooden Soun
 
 ## Performance Test Videos
 
+![Performance Graph](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/60f9bd73c29e66b5b179bca9_graph-over-solid-p-800.jpeg)
+
 You can find detailed volume boost comparison video and raw data from [performance page](https://www.bitti-gitti.com/tws/performance)
+
 
 ## Additional Details
 To make your product listing as informative as possible, consider including the following details about the Wooden Sound System:
