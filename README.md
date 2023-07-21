@@ -10,7 +10,7 @@ this is an easy copy box
 docs/.vitepress/config.js
 is where you edit the menu of the app
 
-## Tips
+## Tips s
     .md docs use these for url and img;
         ![alt text](imgurl)
         [gorunen yazi](link) ise url olayi
