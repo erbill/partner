@@ -18,7 +18,10 @@
   "license": "ISC",
   "dependencies": {
     "next-sitemap": "^4.1.8",
+    "vite-plugin-pages": "^0.31.0",
+    "vite-plugin-pages-sitemap": "^1.6.1",
     "vitepress": "^1.0.0-alpha.27",
-    "vue": "^3.2.41"
+    "vue": "^3.2.41",
+    "vue-router": "^4.0.13"
   }
 }
