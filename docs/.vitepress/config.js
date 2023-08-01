@@ -112,4 +112,21 @@ export default {
         lineNumbers: true,
       },
     },
+    transformHtml: (_, id, { pageData }) => {
+      if (!/[\\/]404\.html$/.test(id)) {
+        links.push({
+          // you might need to change this if not using clean urls mode
+          url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2'),
+          lastmod: pageData.lastUpdated
+        });
+      }
+    },
+    buildEnd: ({ outDir }) => {
+      const sitemap = new SitemapStream({ hostname: 'https://partners.bitti-gitti.com' }) // Replace with your website URL
+      const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
+      sitemap.pipe(writeStream)
+      links.forEach((link) => sitemap.write(link))
+      sitemap.end()
+    }
+
   };
