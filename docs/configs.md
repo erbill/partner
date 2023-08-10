@@ -1,3 +1,3 @@
 # Configs
 
-Welcome to the config page 
+Welcome to the config page
