@@ -10,14 +10,13 @@ At Bitti Gitti, we specialize in creating handcrafted design objects using our o
 
 * The Screen Printing Kit
 
-* The DIY Notebook Making Kit 
-
+* The DIY Notebook Making Kit
 
 ## Wooden Sound System DIY Kit
 
 ![tws workshop](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5b3d0068df53bd0a95967492_SoundSystem-Making-3.jpg)
 
-The Wooden Sound System DIY Kit allows you to create your own high-quality audio device using prime quality birchwood and water-based varnish. Follow our easy-to-follow instructions to build a remarkable sound system that delivers an exceptional audio experience.
+[The Wooden Sound System DIY Kit](https://www.bitti-gitti.com/workshops/sound-system) allows you to create your own high-quality audio device using prime quality birchwood and water-based varnish. Follow our easy-to-follow instructions to build a remarkable sound system that delivers an exceptional audio experience.
 
 ## Screen Printing Kit
 
