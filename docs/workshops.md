@@ -14,17 +14,20 @@ At Bitti Gitti, we specialize in creating handcrafted design objects using our o
 
 
 ## Wooden Sound System DIY Kit
+
 ![tws workshop](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5b3d0068df53bd0a95967492_SoundSystem-Making-3.jpg)
 
 The Wooden Sound System DIY Kit allows you to create your own high-quality audio device using prime quality birchwood and water-based varnish. Follow our easy-to-follow instructions to build a remarkable sound system that delivers an exceptional audio experience.
 
 ## Screen Printing Kit
+
 ![screen print kits](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5e9d9987c0385a28d8a4f687_Custom-2-p-500.jpeg)
 
 The Screen Printing Kit is perfect for those interested in creating their own customized 👕 t-shirts or tote bags. Store owners can send us their designs, and we will create the print-ready screen printing frames. It is also appropriate for children who want to print something remarkable for themselves.
 More info on [bitti-gitti.com/screenprint](https://www.bitti-gitti.com/wholesale/custom-screen-printer)
 
 ## DIY Notebook Making Kit
+
 ![Notebook Making Kit](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/603661f7430d47127ec5aa02_notebook-studio-9-p-500.jpeg)
 
 The DIY Notebook Making Kit is perfect for those who want to learn how to make and bind their 📔 notebooks. Our easy-to-follow 3D rendering animations and real video footage of slowly making the notebook make it easier for you to understand the techniques.
