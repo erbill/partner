@@ -31,9 +31,8 @@ making it perfect for parties, gatherings, or simply enjoying your favorite tune
 </p>
 <p>
 The Wooden Sound System is also incredibly versatile, compatible with 
-all smartphones and able to connect wirelessly via Bluetooth, making 
-it easy to use and set up. It also features a rechargeable battery 
-that provides up to 6 hours of play time, ensuring that you can 
+all smartphones and doesn't require any connections like Bluetooth, making 
+it easy to use and set up. It also features a no battery needed, ensuring that you can 
 enjoy your music anytime, anywhere.
 </p>
 
