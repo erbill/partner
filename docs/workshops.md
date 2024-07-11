@@ -18,6 +18,13 @@ At Bitti Gitti, we specialize in creating handcrafted design objects using our o
 
 [The Wooden Sound System DIY Kit](https://www.bitti-gitti.com/workshops/sound-system) allows you to create your own high-quality audio device using prime quality birchwood and water-based varnish. Follow our easy-to-follow instructions to build a remarkable sound system that delivers an exceptional audio experience.
 
+![tws workshop 2](https://uploads-ssl.webflow.com/559eddcb7587975b596aa69a/668fbd28103781c2be089584_IMG_2570.jpg)
+
+Just by using water-color paint remarkable designs can be achieved.
+
+![tws workshop 2](https://uploads-ssl.webflow.com/559eddcb7587975b596aa69a/668fbc015932f67a6e0a4806_ses%20sistemi%20etkinligi%20-%20sonuclar.jpg)
+
+
 ## Screen Printing Kit
 
 ![screen print kits](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5e9d9987c0385a28d8a4f687_Custom-2-p-500.jpeg)
