@@ -41,6 +41,8 @@ Another way to implement the Drop Strategy is by collaborating with local artist
 
 This creates a limited edition offer that will excite your customers while also promoting local talent.
 
+![Colloborative Art on the Wooden Sound System](https://uploads-ssl.webflow.com/559eddcb7587975b596aa69a/668fcc226c773ff995f38669_33.jpg)
+
 ## Conclusion
 
 Partnering with Bitti Gitti allows you to leverage our expertise in handcrafting design objects to create unique limited-time offers.

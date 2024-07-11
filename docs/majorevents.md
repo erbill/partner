@@ -4,7 +4,7 @@
 <CopyInfoBox>
    <h2>New Year, New Sound - Experience the Wooden Sound System! 🎉</h2>
     
-<p>Happy New Year! Kick off 2023 by enhancing your music experience with the Wooden Sound System from Bitti Gitti Design Studio. Elevate your home or office with this eco-friendly and stylish speaker. Shop now and start your year on a high note!</p>
+<p>Happy New Year! Kick off 2025 by enhancing your music experience with the Wooden Sound System from Bitti Gitti Design Studio. Elevate your home or office with this eco-friendly and stylish speaker. Shop now and start your year on a high note!</p>
 </CopyInfoBox>
 
 ## Valentine's Day (February 14th)
