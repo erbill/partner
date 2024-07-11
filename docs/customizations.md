@@ -15,6 +15,8 @@ Looking to offer your customers a unique and unforgettable audio experience? Dis
 
 ## Our Customization Process
 
+![laser](https://uploads-ssl.webflow.com/559eddcb7587975b596aa69a/5ff07fefeda8923869df06c4_Lazer-Gorsel.jpg)
+
 At Bitti Gitti, we blend traditional woodworking with cutting-edge technology. Our Flowcraft™ engraving method allows you to personalize the device with your logo, custom designs, or artwork. Choose your preferred color to match your branding.
 
 We ensure the final product meets your high standards, creating a unique value proposition for your customers.
@@ -28,6 +30,8 @@ We ensure the final product meets your high standards, creating a unique value p
 * **Sustainability Focus**: We repurpose excess materials, minimizing waste and contributing to a better planet.
 
 ## How to Order Your Custom Engraved Wooden Sound System
+
+![Laser engraved sound system with your logo and design engraved](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/60322e6a73c751e1cdb5a567_Ur-laser.jpg)
 
 Ordering is simple. Visit [our website](https://www.bitti-gitti.com) and select the "Customization" option. Upload your logo, choose your color, and our team will handle the rest, ensuring the final product meets your expectations.
 
