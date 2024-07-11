@@ -14,9 +14,15 @@ At Bitti Gitti, we specialize in creating handcrafted design objects using our o
 
 ## Wooden Sound System DIY Kit
 
+![sound system DIY Workshop Ready Kit](https://cdn.prod.website-files.com/577fb500e970a606264913c7/656829bcf656dc1cb28263b4_TWS-DIY-1.jpg)
+
+the Wooden Sound System kit has all you need to design your unique sound system. 
+
+Great for both [solo](https://www.bitti-gitti.com/lovely/diy-sound-system) and group workshops.
+
 ![tws workshop](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/5b3d0068df53bd0a95967492_SoundSystem-Making-3.jpg)
 
-[The Wooden Sound System DIY Kit](https://www.bitti-gitti.com/workshops/sound-system) allows you to create your own high-quality audio device using prime quality birchwood and water-based varnish. Follow our easy-to-follow instructions to build a remarkable sound system that delivers an exceptional audio experience.
+[The Wooden Sound System DIY Kit](https://www.bitti-gitti.com/workshops/sound-system) allows you to create your own high-quality audio device using prime quality birchwood and water-based varnish. 
 
 ![tws workshop 2](https://uploads-ssl.webflow.com/559eddcb7587975b596aa69a/668fbd28103781c2be089584_IMG_2570.jpg)
 
