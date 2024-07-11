@@ -100,6 +100,7 @@ export default {
             { text: "DIY Flower and Pot KIT 🌸", link: "/flower" },
             { text: "GitHub Graph on TWS 🟢", link: "/github" },
             { text: "Password Book 🔑", link: "/passbook" },
+            { text: "Ceramic Art Objects 🐦", link: "/vetjale" },
           ],
         },
       ],
