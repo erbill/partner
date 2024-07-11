@@ -45,7 +45,6 @@ with cutting-edge technology. Order now to experience superior sound and style.
 </p>
 </CopyInfoBox>
 
-
 And here is a shorter version; 
 
 <CopyInfoBox>
@@ -55,6 +54,7 @@ Introducing the Wooden Sound System from Bitti Gitti Design Studio
 blend of stylish and functional design, making it 
 the perfect addition to any space.
 </p>
+<p>
 Experience the perfect blend of style and function with the award-winning 
 Wooden Sound System from Bitti Gitti Design Studio. Crafted from 
 high-quality birchwood and featuring cutting-edge technology, 
@@ -62,6 +62,7 @@ this powerful speaker enhances the volume of your smartphone's music
 by 25 dB, providing an unparalleled listening experience. Compact, 
 durable, and easy to use, the Wooden Sound System raises the bar 
 for modern sound technology. 
+</p>
 <p>
 Invest in a luxurious statement piece that blends 
 traditional woodworking with cutting-edge technology. 
@@ -71,7 +72,6 @@ traditional woodworking with cutting-edge technology.
 Order yours today.
 </p>
 </CopyInfoBox>
-
 
 If your store is more oriented on hand-crafted items and sustainable goods. Here is another approach;
 
@@ -103,7 +103,6 @@ Invest in quality and sustainability with the Wooden Sound System from Bitti Git
 </p>
 </CopyInfoBox>
 
-
 Here is a shorter version;
 
 <CopyInfoBox>
@@ -114,7 +113,8 @@ from around the world. That's why we are proud
 to offer the Wooden Sound System from 
 Bitti Gitti Design Studio, an award-winning speaker 
 that seamlessly blends traditional woodworking with 
-cutting-edge technology.</p>
+cutting-edge technology.
+</p>
 <p>
 Crafted from high-quality birchwood, 
 this sleek and versatile speaker delivers crystal-clear sound quality 
@@ -147,8 +147,6 @@ Get yours now! #WoodenSoundSystem #QualitySound
 </p>
 </CopyInfoBox>
 
-
-
 Here's a screenshot of what you'll be building at the end of this tutorial.
 
 ![final-works](/SS.jpg)
@@ -167,7 +165,6 @@ fair trade, durable, handcrafted.
 </p>
 </CopyInfoBox>
 
-
 Next we'll add meta description for the Wooden Sound System, one alternative is this;
 
 <CopyInfoBox>
@@ -183,4 +180,3 @@ this eco-friendly and durable speaker is perfect
 for those seeking both style and functionality.
 </p>
 </CopyInfoBox>
-
