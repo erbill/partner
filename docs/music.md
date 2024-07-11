@@ -12,7 +12,12 @@ Erbil Sivaslioglu, the founder of Bitti Gitti, is a gifted industrial engineer, 
 
 ## Our Collaborative Approach
 
-At Bitti Gitti, we believe in the power of collaboration to create remarkable outcomes. That's why every team member contributes to the music-making process. From creating infectious rhythms, coming up with catchy melodies, to mixing and mastering, we all put our creative inputs to deliver the best handcrafted music possible.
+At Bitti Gitti, we believe in the power of collaboration to create remarkable outcomes. 
+
+That's why every team member contributes to the music-making process. From creating infectious rhythms, coming up with catchy melodies, to mixing and mastering, we all put our creative inputs to deliver the best handcrafted music possible.
+
+Let's hear some parts from Kerem(master of corporate relations)'s cowbell and piano solo vibes in Craft Caravan tune.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4QT19XjEmUlTQJACdH1UDX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Play Our Music and Enhance Your Customer's Experience
 
@@ -26,9 +31,13 @@ By playing our handcrafted music in your store, you can :
 
 * Differentiate your store from competitors, creating a powerful brand image.
 
-## Our Music is Perfect for Various Industries
+From our live workshop experiences Come On Right Now is a great white page block eraser.
 
-Our handcrafted music is versatile and can work well in various industries, including:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4uAARTYzzIXvB9FqCgJgOx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Bitti Gitti's Music is made for Various occasions in mind
+
+Our love for handcraft reflects on music and vibes well with various use-cases;
 
 * Gift Stores
 
@@ -38,8 +47,18 @@ Our handcrafted music is versatile and can work well in various industries, incl
 
 * Lifestyle and Fashion Stores
 
-## Conclusion
+* Co-Working Spaces
 
-By adding our handcrafted music to your store, you can create a remarkable atmosphere that leaves a lasting impression on your customers. Our poly-instrumentalist founder and collaborative approach to music-making guarantee a unique and authentic experience that aligns with your brand's identity. So, what are you waiting for? Play our music and enhance your customer's shopping experience today!
+* Team building events
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6lWIE9wRTVvH9xv2zR5Igg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## We love making stuff, as well as making new tunes. Hope this helps;
+
+By adding our handcrafted music to your store, you can create a remarkable atmosphere that leaves a lasting impression on your customers.
+
+If you like the tunes and still reading these lines please [share your thoughts with us!](mailto:hey@bitti-gitti.com)
+
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6pHu6yn12MFevc5KOj3RZq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
