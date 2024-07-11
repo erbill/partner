@@ -82,7 +82,7 @@ Set up a gifting station in your store that targets writers, professionals, and 
     <p>
         <h2>Start the New Year Organized with our Stylish Wooden Pen Holder! 🌟</h2>
         <br/>
-        Happy New Year! Kick off 2023 with an organized and eco-friendly workspace featuring our Wooden Pen Holder. Gift yourself or a loved one a stylish home for their favorite pens. Shop now to enhance your writing experience this year!
+        Happy New Year! Kick off 2025 with an organized and eco-friendly workspace featuring our Wooden Pen Holder. Gift yourself or a loved one a stylish home for their favorite pens. Shop now to enhance your writing experience this year!
     </p>
 </CopyInfoBox>
 
