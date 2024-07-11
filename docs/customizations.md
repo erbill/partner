@@ -76,3 +76,5 @@ We are proud to present our [the Wooden Screen Printer](https://www.bitti-gitti.
 This beautifully crafted piece combines traditional craftsmanship with modern design, making it a standout addition to any creative workspace. 
 
 You can use this frame to print **hundreds of times** on various garments and surfaces.
+
+
