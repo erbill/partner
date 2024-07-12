@@ -101,6 +101,8 @@ export default {
             { text: "GitHub Graph on TWS 🟢", link: "/github" },
             { text: "Password Book 🔑", link: "/passbook" },
             { text: "Ceramic Art Objects 🐦", link: "/vetjale" },
+            { text: "DIY Sound System Kit 🎨", link: "/tws-diy" },
+            
           ],
         },
       ],
