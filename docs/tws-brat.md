@@ -18,6 +18,8 @@ Discover your favorite BRAT colored TWS here.
 
 [BRAT Green TWS ORDER Page](https://www.bitti-gitti.com/lovely/brat-tws)
 
+[Direct Buy Link](https://buy.stripe.com/8wM4hY5fXeok7i828p)
+
 ---
 
 Wholesale Orders: [Order BRAT Green TWS on FAIRE](https://www.faire.com/product/p_bratz1oc)
