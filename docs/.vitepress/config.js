@@ -102,6 +102,7 @@ export default {
             { text: "Password Book 🔑", link: "/passbook" },
             { text: "Ceramic Art Objects 🐦", link: "/vetjale" },
             { text: "DIY Sound System Kit 🎨", link: "/tws-diy" },
+            { text: "BRAT colored TWS 🟢", link: "/tws-brat" },
             
           ],
         },
