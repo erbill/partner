@@ -14,7 +14,7 @@ Hope you'll find your's here.
 
 ### All Color Bundle
 
-[All color bundle](https://www.faire.com/product/p_8bd5bw5y6r) is the quickest way to start collecting data from your customerbase. As you implement these color options with addition to [Razor Black Edition TWS](https://www.faire.com/product/p_f2rou2pcru) you'll recognize a pattern of the best selling colors for your customer base. ✌️ 
+[All color bundle](https://www.faire.com/product/p_8bd5bw5y6r) is the quickest way to start collecting data from your customerbase. As you implement these color options with addition to [Razor Black Edition TWS](https://www.faire.com/product/p_f2rou2pcru) you'll recognize a pattern of the best selling colors for your customer base. ✌️  
 
 ![All Color Bundle TWS](https://uploads-ssl.webflow.com/577fb500e970a606264913c7/61c0a70ce5680dbc9e4491d9_Colorfulk.jpg)
 
