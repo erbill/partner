@@ -74,6 +74,7 @@ export default {
             { text: "Drop Strategy", link: "/dropstrategy" },
             { text: "E-Mailing", link: "/emailing" },
             { text: "Major Events & Holidays", link: "/majorevents" },
+            { text: "Talent Camps", link: "/talentcamp" },
           ],
         },
         {
@@ -85,7 +86,7 @@ export default {
             { text: "Blog", link: "https://blog.bitti-gitti.com" },
             { text: "Social Shares", link: "https://shares.bitti-gitti.com" },
             { text: "Strategy AI", link: "https://twsbot.bitti-gitti.com" },
-            { text: "FREE Web Apps", link: "/sites"},
+            { text: "FREE Web Apps 🟢", link: "/sites"},
           ],
         },
 
