@@ -71,7 +71,7 @@ We understand that every Talent Camp is unique. That's why we offer customizable
 - "Innovative Workshops for Unforgettable Talent Camps"
 - "Boost Team Building with Bitti Gitti's Unique Workshops"
 
-### Email Template:
+### Email Template
 
 <CopyInfoBox>
 
