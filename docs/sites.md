@@ -18,7 +18,7 @@ Managing more than one text or markdown files can be a hassle, not with Write Mo
 
 Upload your .png or .jpg files to turn them Screen Print ready .SVG one color vector file. Great for seing how your designs will look on one color prints.
 
-[![Image to SVG](https://svg.bitti-gitti.com/og-image.jpg)](https://svg.bitti-gitti.com)
+[![Image to SVG](https://svg.bitti-gitti.com/og-image.jpg)](https://svg.bitti-gitti.com/og-image.png)
 [https://svg.bitti-gitti.com](https://svg.bitti-gitti.com)
 
 ## One Link ☝️
