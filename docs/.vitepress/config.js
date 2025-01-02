@@ -110,7 +110,7 @@ export default {
       ],
       footer: {
         message: "Made with curiosity and love",
-        copyright: "© 2024-Bitti Gitti",
+        copyright: "© 2025-Bitti Gitti",
       },
       markdown: {
         theme: "material-palenight",
