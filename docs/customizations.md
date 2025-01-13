@@ -21,7 +21,7 @@ At Bitti Gitti, we blend traditional woodworking with cutting-edge technology. O
 
 We ensure the final product meets your high standards, creating a unique value proposition for your customers.
 
-![laser](https://res.cloudinary.com/ddy9ua0yy/image/upload/fl_preserve_transparency/v1736745979/TWS/MINI-TWS-01a_e3nsrw.jpg)
+![laser](https://cdn.prod.website-files.com/559eddcb7587975b596aa69a/6784a5b687e2ed9af8d7f42d_MINI-TWS-01a.jpg)
 
 ## Why Partner with Bitti Gitti?
 
