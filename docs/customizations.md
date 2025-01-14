@@ -28,7 +28,7 @@ We ensure the final product meets your high standards, creating a unique value p
 * **Award-Winning Product**: Recognized by the German Design Award and TreeHugger's Best Sustainable Home Decor Award.
 * **Value Creation**: Committed to delivering unique value for our partners and community.
 * **Brand Showcase**: Our engraving process highlights your brand's identity.
-* **Exceptional Audio**: Handmade devices offering remarkable audio quality and durability.
+* **Exceptional Audio**: Handmade devices offering remarkable audio quality and durability. 
 * **Sustainability Focus**: We repurpose excess materials, minimizing waste and contributing to a better planet.
 
 ## How to Order Your Custom Engraved Wooden Sound System
