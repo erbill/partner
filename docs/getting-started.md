@@ -99,6 +99,8 @@ You can use the buttons at the top of the page to quickly filter the Wooden Soun
 
 ## Dimensions
 
+The Sound System measures 6.8 inches (17.2 cm) in length, 1.96 inches (5 cm) in width, and 3.9 inches (10 cm) in height, with a total weight of 1.10 pounds (500 grams).
+
 | Dimension | Inches | Centimeters |
 |-----------|--------|-------------|
 | Length    | 6.8 in | 17.2 cm     |
