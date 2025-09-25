@@ -10,6 +10,8 @@ The Wooden Sound System, with its award-winning and innovative design, is a perf
 
 To communicate our warm sound system from our beach-themed default color options and marine-inspired swirly editions to evocative, forest, lunar and custom color combinations, we leveraged the power of 3D renders. We created a variety of 3D renders of the Wooden Sound System in different colors, placements and environments, allowing customers to visualize how the product would look in their home or office.
 
+![3D renders](https://res.cloudinary.com/ddy9ua0yy/image/upload/v1758809638/TWS/TWS-black_ubclgu.jpg)
+
 By using 3D renders, we were able to showcase the Wooden Sound System's unique design and innovative features in a way that was both realistic and visually compelling.
 
 ## Performance Test Videos

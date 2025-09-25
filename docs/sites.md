@@ -27,11 +27,14 @@ This simple tool generates a website for you to present all of your social and o
 
 [https://1link-three.vercel.app/](https://1link-three.vercel.app/)
 
-## TWS Customization 💎
 
+## TWS Customization 💎
+![Sound System customizations](https://res.cloudinary.com/ddy9ua0yy/image/upload/v1758809639/TWS/tws-employerbrand-gifts_vu6kxd.jpg)
 [Laser engraving](/customizations.md) on the Wooden Sound System is an amazing way of customizing your products. This webapp makes it hyper intuative for you to generate different size and position alternatives for your logo placement.
 
 [https://tws-customization.bitti-gitti.com/](https://tws-customization.bitti-gitti.com/)
+
+
 
 ## GitHub Graph Maker 🟢
 
@@ -41,7 +44,7 @@ This simple tool let's you generate .SVG files ready for laser engraving to digi
 
 ## StrategyAI for TWS 🔥🔥🔥
 
-If you're selling or considering to sell the Wooden Sound Systems this tool is hopefully going to help a lot on growing engagement and sales. We're excited to share this custom trained GPT-4 based model with you;
+If you're selling or considering to sell the Wooden Sound Systems this tool is hopefully going to help a lot on growing engagement and sales. We're excited to share this custom trained GPT-5 based model with you;
 
 [https://twsbot.bitti-gitti.com/](https://twsbot.bitti-gitti.com/)
 
