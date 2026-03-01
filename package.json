@@ -8,12 +8,7 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "keywords": [
-    "the",
-    "wooden",
-    "sound",
-    "system"
-  ],
+  "keywords": ["the", "wooden", "sound", "system"],
   "author": "Bitti Gitti",
   "license": "ISC",
   "dependencies": {
@@ -26,5 +21,8 @@
   },
   "devDependencies": {
     "sitemap": "^7.1.1"
+  },
+  "overrides": {
+    "rollup": "^3.29.5"
   }
 }
